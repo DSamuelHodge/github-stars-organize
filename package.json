@@ -1,0 +1,19 @@
+{
+  "name": "github-stars-organize",
+  "version": "1.0.0",
+  "description": "Automatic organization of GitHub starred repositories",
+  "main": "update-stars.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node update-stars.js",
+    "update": "npm run build && npm start"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "marked": "^5.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.3",
+    "typescript": "^5.0.4"
+  }
+}
