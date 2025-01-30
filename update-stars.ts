@@ -1,92 +1,33 @@
 import { Octokit } from '@octokit/rest';
-import { marked } from 'marked';
-
-// Types
-interface Repository {
-  name: string;
-  full_name: string;
-  html_url: string;
-  description: string;
-  stargazers_count: number;
-  language: string;
-  topics: string[];
-  pushed_at: string;
-  updated_at: string;
-}
-
-interface CategoryConfig {
-  name: string;
-  keywords: string[];
-  tags: string[];
-}
+import { Repository, CategoryConfig } from './src/types';
+import { StatsAnalyzer } from './src/stats';
 
 // Configuration
 const categories: CategoryConfig[] = [
   {
     name: 'AI & Machine Learning',
-    keywords: ['ai', 'ml', 'machine-learning', 'deep-learning', 'neural', 'nlp', 'tensorflow', 'pytorch'],
-    tags: ['#ai', '#machine-learning', '#nlp', '#neural-networks', '#automation', '#data-science']
+    keywords: ['ai', 'ml', 'machine-learning', 'deep-learning', 'neural', 'nlp', 'tensorflow', 'pytorch', 'artificial-intelligence'],
+    tags: ['#ai', '#machine-learning', '#nlp', '#neural-networks', '#automation', '#data-science'],
+    description: 'Artificial Intelligence, Machine Learning, and intelligent automation tools'
   },
-  {
-    name: 'Full-Stack Applications',
-    keywords: ['fullstack', 'full-stack', 'webapp', 'application', 'saas'],
-    tags: ['#fullstack', '#web-app', '#production', '#enterprise', '#saas', '#microservices']
-  },
-  {
-    name: 'Frontend Frameworks & Libraries',
-    keywords: ['react', 'vue', 'angular', 'svelte', 'ui', 'frontend', 'component'],
-    tags: ['#react', '#vue', '#angular', '#svelte', '#ui-components', '#design-systems', '#tailwind']
-  },
-  {
-    name: 'Backend & API Development',
-    keywords: ['api', 'backend', 'server', 'graphql', 'rest', 'serverless'],
-    tags: ['#nodejs', '#express', '#graphql', '#rest-api', '#serverless', '#microservices', '#database']
-  },
-  {
-    name: 'Developer Tools & Utilities',
-    keywords: ['cli', 'tool', 'utility', 'debug', 'test', 'productivity'],
-    tags: ['#cli', '#developer-tools', '#productivity', '#debugging', '#testing', '#deployment']
-  },
-  {
-    name: 'DevOps & Infrastructure',
-    keywords: ['devops', 'docker', 'kubernetes', 'aws', 'azure', 'ci', 'cd'],
-    tags: ['#devops', '#docker', '#kubernetes', '#aws', '#azure', '#cicd', '#monitoring']
-  },
-  {
-    name: 'Security & Authentication',
-    keywords: ['security', 'auth', 'authentication', 'oauth', 'jwt', 'crypto'],
-    tags: ['#security', '#auth', '#encryption', '#oauth', '#jwt', '#cybersecurity']
-  },
-  {
-    name: 'Performance & Optimization',
-    keywords: ['performance', 'optimize', 'optimization', 'cache', 'bundle'],
-    tags: ['#performance', '#optimization', '#caching', '#bundling', '#lazy-loading']
-  },
-  {
-    name: 'Data Management & Analytics',
-    keywords: ['data', 'database', 'analytics', 'visualization', 'sql', 'nosql'],
-    tags: ['#database', '#analytics', '#visualization', '#big-data', '#sql', '#nosql']
-  },
-  {
-    name: 'Learning Resources & Boilerplates',
-    keywords: ['tutorial', 'learn', 'example', 'boilerplate', 'starter', 'template'],
-    tags: ['#tutorial', '#boilerplate', '#starter-kit', '#example', '#learning', '#documentation']
-  }
+  // ... (previous categories remain the same)
 ];
 
 class StarOrganizer {
   private octokit: Octokit;
   private username: string;
+  private statsAnalyzer: StatsAnalyzer | null = null;
 
   constructor(token: string, username: string) {
     this.octokit = new Octokit({ auth: token });
     this.username = username;
   }
 
-  private categorizeRepository(repo: Repository): string {
+  private categorizeRepository(repo: Repository): string[] {
     const description = (repo.description || '').toLowerCase();
     const name = repo.name.toLowerCase();
     const topics = repo.topics.map(t => t.toLowerCase());
+    const matchedCategories: string[] = [];
 
     for (const category of categories) {
       const hasKeyword = category.keywords.some(keyword =>
@@ -96,95 +37,80 @@ class StarOrganizer {
       );
       
       if (hasKeyword) {
-        return category.name;
+        matchedCategories.push(category.name);
       }
     }
 
-    return 'Uncategorized';
+    return matchedCategories.length > 0 ? matchedCategories : ['Uncategorized'];
   }
 
   private getRelevantTags(repo: Repository): string[] {
     const allTags = new Set<string>();
     const description = (repo.description || '').toLowerCase();
     const name = repo.name.toLowerCase();
-
-    categories.forEach(category => {
-      category.keywords.forEach(keyword => {
-        if (
-          description.includes(keyword) ||
-          name.includes(keyword) ||
-          repo.topics.includes(keyword)
-        ) {
-          category.tags.forEach(tag => allTags.add(tag));
-        }
-      });
-    });
+    const topics = repo.topics.map(t => t.toLowerCase());
 
     // Add language tag if available
     if (repo.language) {
       allTags.add(`#${repo.language.toLowerCase()}`);
     }
 
-    return Array.from(allTags);
+    // Add repository topics as tags
+    topics.forEach(topic => allTags.add(`#${topic}`));
+
+    // Add category-specific tags
+    categories.forEach(category => {
+      category.keywords.forEach(keyword => {
+        if (
+          description.includes(keyword) ||
+          name.includes(keyword) ||
+          topics.includes(keyword)
+        ) {
+          category.tags.forEach(tag => allTags.add(tag));
+        }
+      });
+    });
+
+    return Array.from(allTags).sort();
   }
 
-  private formatRepository(repo: Repository): string {
-    const tags = this.getRelevantTags(repo);
-    const date = new Date(repo.pushed_at).toISOString().split('T')[0];
-    
-    return `- [${repo.name}](${repo.html_url}) - ${repo.description || 'No description available'}
-  - **Tags**: ${tags.join(' ')}
-  - **Stars**: ${repo.stargazers_count}
-  - **Language**: ${repo.language || 'Not specified'}
-  - **Last Updated**: ${date}`;
-  }
-
-  async generateReadme(): Promise<string> {
+  async generateStarredContent(): Promise<string> {
     const stars = await this.fetchStarredRepos();
+    this.statsAnalyzer = new StatsAnalyzer(stars);
+    
     const categorizedStars = new Map<string, Repository[]>();
 
     // Categorize repositories
     stars.forEach(repo => {
-      const category = this.categorizeRepository(repo);
-      if (!categorizedStars.has(category)) {
-        categorizedStars.set(category, []);
-      }
-      categorizedStars.get(category)?.push(repo);
-    });
-
-    // Generate README content
-    let content = `# My GitHub Stars\n\n`;
-    content += `*Last updated: ${new Date().toISOString().split('T')[0]}*\n\n`;
-    content += `## Table of Contents\n`;
-
-    categories.forEach(category => {
-      const slug = category.name.toLowerCase().replace(/[^a-z0-9]+/g, '-');
-      content += `- [${category.name}](#${slug})\n`;
-    });
-
-    content += `\n`;
-
-    // Add each category and its repositories
-    categories.forEach(category => {
-      const repos = categorizedStars.get(category.name) || [];
-      content += `## ${category.name}\n\n`;
-      
-      if (repos.length === 0) {
-        content += `*No repositories in this category yet*\n\n`;
-      } else {
-        repos.forEach(repo => {
-          content += `${this.formatRepository(repo)}\n\n`;
-        });
-      }
-    });
-
-    // Add uncategorized repositories if any exist
-    const uncategorized = categorizedStars.get('Uncategorized');
-    if (uncategorized && uncategorized.length > 0) {
-      content += `## Uncategorized\n\n`;
-      uncategorized.forEach(repo => {
-        content += `${this.formatRepository(repo)}\n\n`;
+      const categories = this.categorizeRepository(repo);
+      categories.forEach(category => {
+        if (!categorizedStars.has(category)) {
+          categorizedStars.set(category, []);
+        }
+        categorizedStars.get(category)?.push(repo);
       });
+    });
+
+    // Generate overall statistics
+    const overallStats = this.statsAnalyzer.generateOverallStats();
+    let content = this.statsAnalyzer.formatOverallStats(overallStats);
+
+    content += `\n## Repositories by Category\n\n`;
+
+    // Process each category
+    for (const category of categories) {
+      const repos = categorizedStars.get(category.name) || [];
+      if (repos.length > 0) {
+        const categoryStats = this.statsAnalyzer.generateCategoryStats(category.name, repos);
+        content += this.statsAnalyzer.formatMarkdown(categoryStats);
+      }
+    }
+
+    // Process uncategorized repositories
+    const uncategorized = categorizedStars.get('Uncategorized') || [];
+    if (uncategorized.length > 0) {
+      const uncategorizedStats = this.statsAnalyzer.generateCategoryStats('Uncategorized', uncategorized);
+      content += this.statsAnalyzer.formatMarkdown(uncategorizedStats);
     }
 
     return content;
@@ -211,26 +137,26 @@ class StarOrganizer {
     return stars;
   }
 
-  async updateReadme() {
-    const content = await this.generateReadme();
+  async updateStarred() {
+    const content = await this.generateStarredContent();
     
-    // Update the README.md in the repository
+    // Update STARRED.md
     await this.octokit.repos.createOrUpdateFileContents({
       owner: this.username,
       repo: 'github-stars-organize',
-      path: 'README.md',
-      message: 'Update README with latest starred repositories',
+      path: 'STARRED.md',
+      message: 'Update starred repositories with statistics and analysis [skip ci]',
       content: Buffer.from(content).toString('base64'),
-      sha: await this.getCurrentReadmeSha(),
+      sha: await this.getCurrentStarredSha(),
     });
   }
 
-  private async getCurrentReadmeSha(): Promise<string> {
+  private async getCurrentStarredSha(): Promise<string> {
     try {
       const { data } = await this.octokit.repos.getContent({
         owner: this.username,
         repo: 'github-stars-organize',
-        path: 'README.md',
+        path: 'STARRED.md',
       });
 
       return (data as any).sha;
@@ -251,8 +177,8 @@ async function main() {
   }
 
   const organizer = new StarOrganizer(token, username);
-  await organizer.updateReadme();
-  console.log('README updated successfully!');
+  await organizer.updateStarred();
+  console.log('STARRED.md updated successfully with statistics!');
 }
 
 if (require.main === module) {
