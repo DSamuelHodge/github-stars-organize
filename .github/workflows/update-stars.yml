@@ -15,7 +15,8 @@ jobs:
   update-stars:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch all history for proper versioning
       
@@ -26,24 +27,44 @@ jobs:
           cache: 'npm'
           
       - name: Install dependencies
-        run: npm ci
+        run: |
+          echo "Node version: $(node -v)"
+          echo "NPM version: $(npm -v)"
+          npm ci
+        
+      - name: Verify TypeScript installation
+        run: |
+          echo "TypeScript version: $(npx tsc -v)"
+          ls -la node_modules/typescript
           
       - name: Build TypeScript
         run: |
           npm run clean
           npm run build
+        
+      - name: List compiled files
+        run: |
+          echo "Contents of dist directory:"
+          ls -la dist/
           
       - name: Update STARRED.md
-        run: npm start
+        run: |
+          echo "Starting update process..."
+          npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
+          DEBUG: '*'  # Enable debug logging
       
       - name: Check for changes
         id: check_changes
         run: |
           if [[ -n $(git status --porcelain) ]]; then
             echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in:"
+            git status --porcelain
+          else
+            echo "No changes detected"
           fi
 
       - name: Commit and push if changed
@@ -54,3 +75,17 @@ jobs:
           git add STARRED.md
           git commit -m "Update starred repositories [skip ci]"
           git push
+        
+      - name: Create issue on failure
+        if: failure()
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Workflow failed: Update Stars',
+              body: `The Update Stars workflow failed. Please check the [workflow run](https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}) for details.
+              
+              Error occurred at: ${new Date().toISOString()}`
+            });
