@@ -9,3 +9,4 @@ dotenv.config();
 // Configuration
 const categories: CategoryConfig[] = [
   // ... (rest of the file remains the same)
+];
