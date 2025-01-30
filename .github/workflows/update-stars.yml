@@ -20,41 +20,36 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for proper versioning
       
+      - name: List files
+        run: |
+          pwd
+          ls -la
+          echo "Looking for package-lock.json:"
+          find . -name "package-lock.json"
+      
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
           cache: 'npm'
+          cache-dependency-path: package-lock.json
           
-      - name: Install dependencies
+      - name: Clean install dependencies
         run: |
           echo "Node version: $(node -v)"
           echo "NPM version: $(npm -v)"
-          npm ci
-        
-      - name: Verify TypeScript installation
-        run: |
-          echo "TypeScript version: $(npx tsc -v)"
-          ls -la node_modules/typescript
+          npm clean-install
           
       - name: Build TypeScript
         run: |
           npm run clean
           npm run build
-        
-      - name: List compiled files
-        run: |
-          echo "Contents of dist directory:"
-          ls -la dist/
           
       - name: Update STARRED.md
-        run: |
-          echo "Starting update process..."
-          npm start
+        run: npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          DEBUG: '*'  # Enable debug logging
       
       - name: Check for changes
         id: check_changes
