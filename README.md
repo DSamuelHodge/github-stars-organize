@@ -1,24 +1,40 @@
 # GitHub Stars Organizer
 
-An automated tool to categorize and organize your GitHub starred repositories into a searchable, well-structured format.
+An automated tool to categorize, analyze, and organize your GitHub starred repositories into a searchable, well-structured format with detailed statistics and trending analysis.
 
 ## Features
 
 - 📁 Automatically categorizes starred repositories 
-- 🏷️ Generates relevant tags based on repository content
-- 📊 Provides useful metadata (stars, last updated, etc.)
-- 🔄 Updates daily via GitHub Actions
-- 🔍 Smart keyword-based categorization
-- 🎯 Customizable categories and tags
+- 📊 Generates comprehensive statistics and insights
+- 📈 Identifies trending repositories in your stars
+- 🏷️ Smart tag generation based on repository content
+- 📑 Language and topic analysis
+- 🔄 Daily updates via GitHub Actions
 
-## How It Works
+## Statistics & Analysis
 
-The tool automatically:
-1. Fetches your starred repositories
-2. Analyzes repository names, descriptions, and topics
-3. Categorizes them based on predefined keywords
-4. Generates relevant tags
-5. Creates an organized markdown file (STARRED.md)
+The tool provides detailed insights about your starred repositories:
+
+### Overall Statistics
+- Total repositories and stars count
+- Active repositories percentage
+- Top languages and topics
+- Most starred repositories
+- Recent trending repositories
+
+### Per-Category Analysis
+- Repository count and total stars
+- Average stars per repository
+- Language distribution
+- Recently updated repositories
+- Most popular repositories
+- Trending repositories within category
+
+### Trending Analysis
+- Star growth rate calculation
+- Activity monitoring
+- Popular repositories identification
+- Recently updated project tracking
 
 ## Setup Guide
 
@@ -38,8 +54,8 @@ The tool automatically:
 
 3. Update the configuration (optional):
    - Edit `categories` in `update-stars.ts` to customize categories
-   - Modify keywords and tags to match your interests
-   - Adjust the formatting in the `formatRepository` method
+   - Modify keywords and tags in `src/types.ts`
+   - Adjust statistics settings in `src/stats.ts`
 
 4. Star some repositories and wait for the daily update, or:
    - Go to the Actions tab
@@ -76,29 +92,39 @@ Edit the `categories` array in `update-stars.ts`:
 {
   name: 'Your Category',
   keywords: ['keyword1', 'keyword2'],
-  tags: ['#tag1', '#tag2']
+  tags: ['#tag1', '#tag2'],
+  description: 'Category description'
 }
 ```
 
-### Modifying Tag Generation
+### Modifying Statistics
+Edit `src/stats.ts` to:
+- Adjust trending calculation algorithm
+- Modify statistics formatting
+- Add new metrics
+- Customize analysis parameters
+
+### Custom Tag Generation
 Customize the `getRelevantTags` method in `update-stars.ts` to add your own tag generation logic.
 
 ## File Structure
 
-- `STARRED.md` - Generated list of organized stars
+- `STARRED.md` - Generated list of organized stars with statistics
+- `src/stats.ts` - Statistics and trending analysis module
+- `src/types.ts` - TypeScript type definitions
 - `update-stars.ts` - Main script for fetching and organizing stars
 - `.github/workflows/update-stars.yml` - GitHub Actions workflow
 - `README.md` - Project documentation (this file)
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request. Some areas for contribution:
 
-1. Fork the repository
-2. Create your feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a new Pull Request
+1. Enhanced statistics and trending algorithms
+2. Additional metrics and insights
+3. Improved categorization logic
+4. Better visualization of statistics
+5. New features and enhancements
 
 ## License
 
@@ -106,4 +132,4 @@ MIT
 
 ---
 
-✨ **Want to see it in action?** Check out [STARRED.md](STARRED.md) for my organized GitHub stars!
+✨ **Want to see it in action?** Check out [STARRED.md](STARRED.md) for my organized GitHub stars with complete statistics and trending analysis!
