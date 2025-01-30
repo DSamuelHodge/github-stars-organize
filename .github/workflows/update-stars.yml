@@ -7,6 +7,10 @@ on:
   watch:
     types: [started]  # Run when you star your own repository
 
+permissions:
+  contents: write
+  issues: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -20,14 +24,14 @@ jobs:
           
       - name: Install dependencies
         run: |
-          npm install @octokit/rest marked typescript
+          npm install
           
       - name: Compile TypeScript
         run: |
-          npx tsc update-stars.ts
+          npm run build
           
       - name: Update README
-        run: node update-stars.js
+        run: npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
