@@ -25,11 +25,15 @@ jobs:
           node-version: '18'
           cache: 'npm'
           
-      - name: Install dependencies
-        run: npm ci
+      - name: Clean install dependencies
+        run: |
+          rm -rf node_modules
+          npm install
           
       - name: Build TypeScript
-        run: npm run build
+        run: |
+          npm run clean
+          npm run build
           
       - name: Update STARRED.md
         run: npm start
