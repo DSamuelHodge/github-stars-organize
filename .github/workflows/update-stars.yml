@@ -58,29 +58,34 @@ jobs:
           DEBUG: '*'
           LOG_LEVEL: debug
       
-      - name: Check for changes
-        id: check_changes
+      - name: Check STARRED.md
+        id: check_content
         run: |
           echo "Current directory contents:"
           ls -la
-          echo "STARRED.md content (if exists):"
           if [ -f STARRED.md ]; then
-            cat STARRED.md
+            echo "STARRED.md exists"
+            echo "File size: $(stat -f%z STARRED.md)"
+            echo "Last few lines:"
+            tail -n 5 STARRED.md
           else
             echo "STARRED.md does not exist"
           fi
-          if [[ -n $(git status --porcelain) ]]; then
-            echo "changes=true" >> $GITHUB_OUTPUT
-            echo "Changes detected in:"
-            git status --porcelain
+      
+      - name: Check for changes
+        id: changes
+        run: |
+          if git status --porcelain | grep -q 'STARRED.md'; then
+            echo "changes=true" >> "$GITHUB_OUTPUT"
+            echo "Changes detected in STARRED.md"
+            git diff STARRED.md
           else
-            echo "No changes detected"
-            echo "Git status:"
-            git status
+            echo "changes=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected in STARRED.md"
           fi
 
       - name: Commit and push if changed
-        if: steps.check_changes.outputs.changes == 'true'
+        if: steps.changes.outputs.changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
