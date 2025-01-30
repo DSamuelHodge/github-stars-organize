@@ -11,6 +11,11 @@ permissions:
   contents: write
   issues: write
 
+env:
+  NODE_ENV: development
+  DEBUG: '*'
+  LOG_LEVEL: debug
+
 jobs:
   update-stars:
     runs-on: ubuntu-latest
@@ -19,13 +24,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  # Fetch all history for proper versioning
-      
-      - name: List files
-        run: |
-          pwd
-          ls -la
-          echo "Looking for package-lock.json:"
-          find . -name "package-lock.json"
       
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -43,37 +41,42 @@ jobs:
       - name: Build TypeScript
         run: |
           npm run clean
-          npm run build
-          
-      - name: List Build Output
-        run: |
+          NODE_ENV=development npm run build
           echo "Build output files:"
           ls -la dist/
           
       - name: Update STARRED.md
         run: |
+          echo "GitHub Token exists: ${{ secrets.GITHUB_TOKEN != '' }}"
+          echo "GitHub Username: ${{ github.repository_owner }}"
           echo "Starting update process..."
-          DEBUG=* npm start
+          node --trace-warnings dist/update-stars.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          
-      - name: Check STARRED.md Content
-        run: |
-          echo "STARRED.md content after update:"
-          cat STARRED.md
+          NODE_ENV: development
+          DEBUG: '*'
+          LOG_LEVEL: debug
       
       - name: Check for changes
         id: check_changes
         run: |
+          echo "Current directory contents:"
+          ls -la
+          echo "STARRED.md content (if exists):"
+          if [ -f STARRED.md ]; then
+            cat STARRED.md
+          else
+            echo "STARRED.md does not exist"
+          fi
           if [[ -n $(git status --porcelain) ]]; then
             echo "changes=true" >> $GITHUB_OUTPUT
             echo "Changes detected in:"
             git status --porcelain
           else
             echo "No changes detected"
-            echo "Current directory contents:"
-            ls -la
+            echo "Git status:"
+            git status
           fi
 
       - name: Commit and push if changed
