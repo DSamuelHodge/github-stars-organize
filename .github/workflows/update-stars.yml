@@ -45,11 +45,23 @@ jobs:
           npm run clean
           npm run build
           
+      - name: List Build Output
+        run: |
+          echo "Build output files:"
+          ls -la dist/
+          
       - name: Update STARRED.md
-        run: npm start
+        run: |
+          echo "Starting update process..."
+          DEBUG=* npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
+          
+      - name: Check STARRED.md Content
+        run: |
+          echo "STARRED.md content after update:"
+          cat STARRED.md
       
       - name: Check for changes
         id: check_changes
@@ -60,6 +72,8 @@ jobs:
             git status --porcelain
           else
             echo "No changes detected"
+            echo "Current directory contents:"
+            ls -la
           fi
 
       - name: Commit and push if changed
