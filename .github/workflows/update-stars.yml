@@ -23,12 +23,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '18'
+          cache: 'npm'
           
-      - name: Clean install dependencies
-        run: |
-          rm -rf node_modules
-          npm install
-          npm install --package-lock-only
+      - name: Install dependencies
+        run: npm ci
           
       - name: Build TypeScript
         run: |
@@ -53,6 +51,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add STARRED.md package-lock.json
-          git commit -m "Update starred repositories and dependencies [skip ci]"
+          git add STARRED.md
+          git commit -m "Update starred repositories [skip ci]"
           git push
