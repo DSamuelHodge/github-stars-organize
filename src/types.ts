@@ -36,6 +36,7 @@ export interface Stats {
   avgStarsPerRepo: number;
   activeReposCount: number;
   activeReposPercentage: number;
+  activityHistory: Map<string, number>;
   topLanguages: [string, number][];
   topTopics: [string, number][];
   mostStarred: Repository[];
@@ -51,4 +52,15 @@ export interface CategoryStats {
   recentUpdates: number;
   mostPopular: Repository[];
   trending: Repository[];
+  activityHistory: Map<string, number>;
+}
+
+export interface ChartOptions {
+  width?: number;
+  height?: number;
+  colors?: string[];
+  title?: string;
+  showLegend?: boolean;
+  showGrid?: boolean;
+  showLabels?: boolean;
 }
