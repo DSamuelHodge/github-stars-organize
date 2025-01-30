@@ -12,26 +12,43 @@ permissions:
   issues: write
 
 jobs:
-  update-readme:
+  update-stars:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper versioning
       
       - name: Setup Node.js
-        uses: actions/setup-node@v2
+        uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '18'
+          cache: 'npm'
           
       - name: Install dependencies
-        run: |
-          npm install
+        run: npm ci
           
-      - name: Compile TypeScript
-        run: |
-          npm run build
+      - name: Build TypeScript
+        run: npm run build
           
-      - name: Update README
+      - name: Update STARRED.md
         run: npm start
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add STARRED.md
+          git commit -m "Update starred repositories [skip ci]"
+          git push
