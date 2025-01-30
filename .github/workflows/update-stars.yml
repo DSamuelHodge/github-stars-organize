@@ -1,0 +1,33 @@
+name: Update Stars
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run daily at midnight
+  workflow_dispatch:  # Allow manual trigger
+  watch:
+    types: [started]  # Run when you star your own repository
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          
+      - name: Install dependencies
+        run: |
+          npm install @octokit/rest marked typescript
+          
+      - name: Compile TypeScript
+        run: |
+          npx tsc update-stars.ts
+          
+      - name: Update README
+        run: node update-stars.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
