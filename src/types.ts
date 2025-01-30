@@ -1,26 +1,14 @@
 export interface Repository {
+  id: number;
   name: string;
   full_name: string;
+  description: string | null;
   html_url: string;
-  description: string;
   stargazers_count: number;
-  language: string;
+  language: string | null;
   topics: string[];
-  pushed_at: string;
   updated_at: string;
   created_at: string;
-  fork: boolean;
-  homepage: string | null;
-  size: number;
-  default_branch: string;
-  open_issues_count: number;
-  has_issues: boolean;
-  has_wiki: boolean;
-  archived: boolean;
-  disabled: boolean;
-  visibility: string;
-  forks_count: number;
-  watchers_count: number;
 }
 
 export interface CategoryConfig {
@@ -28,39 +16,4 @@ export interface CategoryConfig {
   keywords: string[];
   tags: string[];
   description: string;
-}
-
-export interface Stats {
-  totalRepos: number;
-  totalStars: number;
-  avgStarsPerRepo: number;
-  activeReposCount: number;
-  activeReposPercentage: number;
-  activityHistory: Map<string, number>;
-  topLanguages: [string, number][];
-  topTopics: [string, number][];
-  mostStarred: Repository[];
-  trending: Repository[];
-}
-
-export interface CategoryStats {
-  name: string;
-  count: number;
-  totalStars: number;
-  avgStars: number;
-  languages: Map<string, number>;
-  recentUpdates: number;
-  mostPopular: Repository[];
-  trending: Repository[];
-  activityHistory: Map<string, number>;
-}
-
-export interface ChartOptions {
-  width?: number;
-  height?: number;
-  colors?: string[];
-  title?: string;
-  showLegend?: boolean;
-  showGrid?: boolean;
-  showLabels?: boolean;
 }
