@@ -3,7 +3,7 @@
 ## Overall Statistics
 
 - Total Repositories: 775
-- Total Stars: 5453333
+- Total Stars: 5456256
 
 ### Popular Languages
 
@@ -15,36 +15,36 @@
 
 ### Top Repositories
 
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ⭐ 256876
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ⭐ 257028
   A list of Free Software network services and web applications which can be hosted on your own servers
-- [Python](https://github.com/TheAlgorithms/Python) - ⭐ 212703
+- [Python](https://github.com/TheAlgorithms/Python) - ⭐ 212797
   All Algorithms implemented in Python
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 136225
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 136245
   This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101476
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101513
   21 Lessons, Get Started Building with Generative AI 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93004
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93068
   The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 ### Recent Updates
 
+- [firecrawl](https://github.com/firecrawl/firecrawl) - 11/9/2025
+  🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [supabase](https://github.com/supabase/supabase) - 11/8/2025
+  The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - 11/8/2025
+  Contexts Optical Compression
+- [uv](https://github.com/astral-sh/uv) - 11/8/2025
+  An extremely fast Python package and project manager, written in Rust.
 - [spec-kit](https://github.com/github/spec-kit) - 11/8/2025
   💫 Toolkit to help you get started with Spec-Driven Development
-- [postiz-app](https://github.com/gitroomhq/postiz-app) - 11/8/2025
-  📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [crawl4ai](https://github.com/unclecode/crawl4ai) - 11/8/2025
-  🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [opik](https://github.com/comet-ml/opik) - 11/8/2025
-  Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - 11/7/2025
-  Display and customize Markdown text in SwiftUI
 
 ## Repositories by Category
 
 
 ### AI & Machine Learning
 
-Total repositories: 373 | Total stars: 3092488
+Total repositories: 373 | Total stars: 3094454
 
 **Languages:**
 - Python: 224 repositories
@@ -54,219 +54,219 @@ Total repositories: 373 | Total stars: 3092488
 - Rust: 7 repositories
 
 **Top Repositories:**
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101476
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101513
   21 Lessons, Get Started Building with Generative AI 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93004
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93068
   The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [supabase](https://github.com/supabase/supabase) - ⭐ 92155
+- [supabase](https://github.com/supabase/supabase) - ⭐ 92259
   The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 **Recent Updates:**
+- [firecrawl](https://github.com/firecrawl/firecrawl) - 11/9/2025
+  🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [supabase](https://github.com/supabase/supabase) - 11/8/2025
+  The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [spec-kit](https://github.com/github/spec-kit) - 11/8/2025
   💫 Toolkit to help you get started with Spec-Driven Development
-- [postiz-app](https://github.com/gitroomhq/postiz-app) - 11/8/2025
-  📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [crawl4ai](https://github.com/unclecode/crawl4ai) - 11/8/2025
-  🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 
 **All Repositories:**
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101476 - Jupyter Notebook
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101513 - Jupyter Notebook
   21 Lessons, Get Started Building with Generative AI 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93004 - Python
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93068 - Python
   The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [supabase](https://github.com/supabase/supabase) - ⭐ 92155 - TypeScript
+- [supabase](https://github.com/supabase/supabase) - ⭐ 92259 - TypeScript
   The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - ⭐ 78121 - Jupyter Notebook
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - ⭐ 78195 - Jupyter Notebook
   Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - ⭐ 75458 - Python
+- [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - ⭐ 75765 - Python
   Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - ⭐ 75423 - Python
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - ⭐ 75446 - Python
   real time face swap and one-click video deepfake with only a single image
-- [browser-use](https://github.com/browser-use/browser-use) - ⭐ 72272 - Python
+- [browser-use](https://github.com/browser-use/browser-use) - ⭐ 72296 - Python
   🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - ⭐ 71141 - Python
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - ⭐ 71139 - Python
   Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - ⭐ 70510 - Python
+- [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - ⭐ 70522 - Python
   A curated list of awesome Machine Learning frameworks, libraries and software.
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 67524 - TypeScript
-  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-- [firecrawl](https://github.com/firecrawl/firecrawl) - ⭐ 66762 - TypeScript
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 67546 - TypeScript
+  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [firecrawl](https://github.com/firecrawl/firecrawl) - ⭐ 66896 - TypeScript
   🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
-- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - ⭐ 66090 - MDX
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - ⭐ 66110 - MDX
   🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [OpenHands](https://github.com/OpenHands/OpenHands) - ⭐ 64772 - Python
+- [OpenHands](https://github.com/OpenHands/OpenHands) - ⭐ 64797 - Python
   🙌 OpenHands: Code Less, Make More
-- [vllm](https://github.com/vllm-project/vllm) - ⭐ 62459 - Python
+- [vllm](https://github.com/vllm-project/vllm) - ⭐ 62531 - Python
   A high-throughput and memory-efficient inference and serving engine for LLMs
-- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - ⭐ 59243 - Python
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - ⭐ 59255 - Python
   🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [crawl4ai](https://github.com/unclecode/crawl4ai) - ⭐ 55529 - Python
+- [crawl4ai](https://github.com/unclecode/crawl4ai) - ⭐ 55544 - Python
   🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [meilisearch](https://github.com/meilisearch/meilisearch) - ⭐ 54407 - Rust
+- [meilisearch](https://github.com/meilisearch/meilisearch) - ⭐ 54425 - Rust
   A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - ⭐ 54355 - Python
+- [OpenBB](https://github.com/OpenBB-finance/OpenBB) - ⭐ 54371 - Python
   Financial data platform for analysts, quants and AI agents.
-- [autogen](https://github.com/microsoft/autogen) - ⭐ 51477 - Python
+- [autogen](https://github.com/microsoft/autogen) - ⭐ 51493 - Python
   A programming framework for agentic AI
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - ⭐ 50804 - JavaScript
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - ⭐ 50831 - JavaScript
   The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [nanoGPT](https://github.com/karpathy/nanoGPT) - ⭐ 49112 - Python
+- [nanoGPT](https://github.com/karpathy/nanoGPT) - ⭐ 49165 - Python
   The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [spec-kit](https://github.com/github/spec-kit) - ⭐ 45991 - Shell
+- [spec-kit](https://github.com/github/spec-kit) - ⭐ 46189 - Shell
   💫 Toolkit to help you get started with Spec-Driven Development
-- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - ⭐ 44319 - C++
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - ⭐ 44354 - C++
   Port of OpenAI's Whisper model in C/C++
-- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - ⭐ 44205 - Jupyter Notebook
+- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - ⭐ 44231 - Jupyter Notebook
   Learn how to design, develop, deploy and iterate on production-grade ML applications.
-- [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - ⭐ 42234 - Python
+- [ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - ⭐ 42242 - Python
   An AI Hedge Fund Team
 - [ColossalAI](https://github.com/hpcaitech/ColossalAI) - ⭐ 41227 - Python
   Making large AI models cheaper, faster and more accessible
-- [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - ⭐ 40633 - Python
+- [DeepSpeed](https://github.com/deepspeedai/DeepSpeed) - ⭐ 40634 - Python
   DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
-- [FastChat](https://github.com/lm-sys/FastChat) - ⭐ 39224 - Python
+- [FastChat](https://github.com/lm-sys/FastChat) - ⭐ 39243 - Python
   An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [faiss](https://github.com/facebookresearch/faiss) - ⭐ 37826 - C++
+- [faiss](https://github.com/facebookresearch/faiss) - ⭐ 37839 - C++
   A library for efficient similarity search and clustering of dense vectors.
-- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - ⭐ 37493 - Python
+- [Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - ⭐ 37492 - Python
   OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
-- [qlib](https://github.com/microsoft/qlib) - ⭐ 33458 - Python
+- [qlib](https://github.com/microsoft/qlib) - ⭐ 33500 - Python
   Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ⭐ 30211 - Python
+- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - ⭐ 30210 - Python
   Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [openai-python](https://github.com/openai/openai-python) - ⭐ 29194 - Python
+- [openai-python](https://github.com/openai/openai-python) - ⭐ 29201 - Python
   The official Python library for the OpenAI API
-- [storm](https://github.com/stanford-oval/storm) - ⭐ 27590 - Python
+- [storm](https://github.com/stanford-oval/storm) - ⭐ 27593 - Python
   An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-- [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - ⭐ 27564 - Python
+- [Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - ⭐ 27567 - Python
   A generative world for general-purpose robotics & embodied AI learning.
-- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - ⭐ 27155 - TypeScript
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) - ⭐ 27163 - TypeScript
   Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
-- [semantic-kernel](https://github.com/microsoft/semantic-kernel) - ⭐ 26628 - C#
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel) - ⭐ 26631 - C#
   Integrate cutting-edge LLM technology quickly and easily into your apps
-- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - ⭐ 24793 - TypeScript
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - ⭐ 24801 - TypeScript
   React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [JARVIS](https://github.com/microsoft/JARVIS) - ⭐ 24437 - Python
+- [JARVIS](https://github.com/microsoft/JARVIS) - ⭐ 24438 - Python
   JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [postiz-app](https://github.com/gitroomhq/postiz-app) - ⭐ 24186 - TypeScript
+- [postiz-app](https://github.com/gitroomhq/postiz-app) - ⭐ 24195 - TypeScript
   📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - ⭐ 24071 - Python
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher) - ⭐ 24081 - Python
   An LLM agent that conducts deep research (local and web) on any given topic and generates a long report with citations.
-- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 22740
+- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 22749
   🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - ⭐ 22193 - Python
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - ⭐ 22196 - Python
   MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-- [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - ⭐ 21726 - Python
+- [Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - ⭐ 21729 - Python
   Python scraper based on AI
-- [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - ⭐ 20726 - Jupyter Notebook
+- [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - ⭐ 20738 - Jupyter Notebook
   In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- [sglang](https://github.com/sgl-project/sglang) - ⭐ 19972 - Python
+- [sglang](https://github.com/sgl-project/sglang) - ⭐ 20054 - Python
   SGLang is a fast serving framework for large language models and vision language models.
-- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - ⭐ 19577
+- [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) - ⭐ 19581
   A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning
-- [taipy](https://github.com/Avaiga/taipy) - ⭐ 18849 - Python
+- [taipy](https://github.com/Avaiga/taipy) - ⭐ 18855 - Python
   Turns Data and AI algorithms into production-ready web applications in no time.
-- [candle](https://github.com/huggingface/candle) - ⭐ 18507 - Rust
+- [candle](https://github.com/huggingface/candle) - ⭐ 18517 - Rust
   Minimalist ML framework for Rust
-- [llama-cookbook](https://github.com/meta-llama/llama-cookbook) - ⭐ 18015 - Jupyter Notebook
+- [llama-cookbook](https://github.com/meta-llama/llama-cookbook) - ⭐ 18020 - Jupyter Notebook
   Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
-- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - ⭐ 17978 - Jupyter Notebook
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - ⭐ 17985 - Jupyter Notebook
   FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
-- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - ⭐ 17731 - Python
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - ⭐ 17735 - Python
   SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
-- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - ⭐ 15766 - HTML
+- [academicpages.github.io](https://github.com/academicpages/academicpages.github.io) - ⭐ 15768 - HTML
   Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
-- [web-ui](https://github.com/browser-use/web-ui) - ⭐ 15130 - Python
+- [web-ui](https://github.com/browser-use/web-ui) - ⭐ 15136 - Python
   🖥️ Run AI Agent in your browser.
 - [RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - ⭐ 14110 - Python
   RWKV (pronounced RwaKuv) is an RNN with great LLM performance, which can also be directly trained like a GPT transformer (parallelizable). We are at RWKV-7 "Goose". So it's combining the best of RNN and transformer - great performance, linear time, constant space (no kv-cache), fast training, infinite ctx_len, and free sentence embedding.
-- [data-formulator](https://github.com/microsoft/data-formulator) - ⭐ 14080 - TypeScript
+- [data-formulator](https://github.com/microsoft/data-formulator) - ⭐ 14083 - TypeScript
   🪄 Create rich visualizations with AI 
-- [supermemory](https://github.com/supermemoryai/supermemory) - ⭐ 13366 - TypeScript
+- [supermemory](https://github.com/supermemoryai/supermemory) - ⭐ 13405 - TypeScript
   Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - ⭐ 13194
+- [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - ⭐ 13204
   The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-- [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - ⭐ 12712 - HTML
+- [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle) - ⭐ 12714 - HTML
   Drench yourself in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP by learning from these exciting lectures!!
-- [gorilla](https://github.com/ShishirPatil/gorilla) - ⭐ 12534 - Python
+- [gorilla](https://github.com/ShishirPatil/gorilla) - ⭐ 12535 - Python
   Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - ⭐ 12432
+- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - ⭐ 12436
   A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [dinov2](https://github.com/facebookresearch/dinov2) - ⭐ 11835 - Jupyter Notebook
+- [dinov2](https://github.com/facebookresearch/dinov2) - ⭐ 11838 - Jupyter Notebook
   PyTorch code and models for the DINOv2 self-supervised learning method.
-- [txtai](https://github.com/neuml/txtai) - ⭐ 11794 - Python
+- [txtai](https://github.com/neuml/txtai) - ⭐ 11800 - Python
   💡 All-in-one open-source AI framework for semantic search, LLM orchestration and language model workflows
-- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - ⭐ 11671 - Jupyter Notebook
+- [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - ⭐ 11676 - Jupyter Notebook
   The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
-- [ludwig](https://github.com/ludwig-ai/ludwig) - ⭐ 11611 - Python
+- [ludwig](https://github.com/ludwig-ai/ludwig) - ⭐ 11612 - Python
   Low-code framework for building custom LLMs, neural networks, and other AI models
-- [claude-engineer](https://github.com/Doriandarko/claude-engineer) - ⭐ 11138 - Python
+- [claude-engineer](https://github.com/Doriandarko/claude-engineer) - ⭐ 11139 - Python
   Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
-- [cleanlab](https://github.com/cleanlab/cleanlab) - ⭐ 11072 - Python
+- [cleanlab](https://github.com/cleanlab/cleanlab) - ⭐ 11074 - Python
   Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-- [chainlit](https://github.com/Chainlit/chainlit) - ⭐ 10947 - TypeScript
+- [chainlit](https://github.com/Chainlit/chainlit) - ⭐ 10956 - TypeScript
   Build Conversational AI in minutes ⚡️
-- [scira](https://github.com/zaidmukaddam/scira) - ⭐ 10913 - TypeScript
+- [scira](https://github.com/zaidmukaddam/scira) - ⭐ 10919 - TypeScript
   Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
-- [minbpe](https://github.com/karpathy/minbpe) - ⭐ 10118 - Python
+- [minbpe](https://github.com/karpathy/minbpe) - ⭐ 10120 - Python
   Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
-- [E2B](https://github.com/e2b-dev/E2B) - ⭐ 9809 - MDX
+- [E2B](https://github.com/e2b-dev/E2B) - ⭐ 9814 - MDX
   Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [nougat](https://github.com/facebookresearch/nougat) - ⭐ 9700 - Python
+- [nougat](https://github.com/facebookresearch/nougat) - ⭐ 9701 - Python
   Implementation of Nougat Neural Optical Understanding for Academic Documents
-- [reader](https://github.com/jina-ai/reader) - ⭐ 9373 - TypeScript
+- [reader](https://github.com/jina-ai/reader) - ⭐ 9374 - TypeScript
   Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
-- [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9324 - TypeScript
+- [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9328 - TypeScript
   The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [moshi](https://github.com/kyutai-labs/moshi) - ⭐ 9078 - Python
+- [moshi](https://github.com/kyutai-labs/moshi) - ⭐ 9080 - Python
   Moshi is a speech-text foundation model and full-duplex spoken dialogue framework. It uses Mimi, a state-of-the-art streaming neural audio codec.
-- [deeplake](https://github.com/activeloopai/deeplake) - ⭐ 8882 - Python
+- [deeplake](https://github.com/activeloopai/deeplake) - ⭐ 8884 - Python
   Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
-- [notebooks](https://github.com/roboflow/notebooks) - ⭐ 8677 - Jupyter Notebook
+- [notebooks](https://github.com/roboflow/notebooks) - ⭐ 8678 - Jupyter Notebook
   A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like YOLO11, RT-DETR, SAM 2, Florence-2, PaliGemma 2, and Qwen2.5VL.
-- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - ⭐ 8399 - Jupyter Notebook
+- [MLOps-Basics](https://github.com/graviraja/MLOps-Basics) - ⭐ 8410 - Jupyter Notebook
   
-- [morphic](https://github.com/miurla/morphic) - ⭐ 8322 - TypeScript
+- [morphic](https://github.com/miurla/morphic) - ⭐ 8325 - TypeScript
   An AI-powered search engine with a generative UI
 - [financial-machine-learning](https://github.com/firmai/financial-machine-learning) - ⭐ 8252 - Python
   A curated list of practical financial machine learning tools and applications.
-- [cognee](https://github.com/topoteretes/cognee) - ⭐ 8144 - Python
+- [cognee](https://github.com/topoteretes/cognee) - ⭐ 8201 - Python
   Memory for AI Agents in 6 lines of code
-- [mlx-examples](https://github.com/ml-explore/mlx-examples) - ⭐ 7977 - Python
+- [mlx-examples](https://github.com/ml-explore/mlx-examples) - ⭐ 7979 - Python
   Examples in the MLX framework
-- [paper-qa](https://github.com/Future-House/paper-qa) - ⭐ 7821 - Python
+- [paper-qa](https://github.com/Future-House/paper-qa) - ⭐ 7823 - Python
   High accuracy RAG for answering questions from scientific documents with citations
-- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - ⭐ 7652 - Jupyter Notebook
+- [Grokking-Deep-Learning](https://github.com/iamtrask/Grokking-Deep-Learning) - ⭐ 7653 - Jupyter Notebook
   this repository accompanies the book "Grokking Deep Learning"
-- [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - ⭐ 7432 - Python
+- [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - ⭐ 7433 - Python
   A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
-- [next-enterprise](https://github.com/Blazity/next-enterprise) - ⭐ 7194 - TypeScript
+- [next-enterprise](https://github.com/Blazity/next-enterprise) - ⭐ 7195 - TypeScript
   💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
-- [samurai](https://github.com/yangchris11/samurai) - ⭐ 6990 - Python
+- [samurai](https://github.com/yangchris11/samurai) - ⭐ 6991 - Python
   Official repository of "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory"
-- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ⭐ 6973 - Go
+- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ⭐ 6977 - Go
   AI powered Kubernetes Assistant
-- [evidently](https://github.com/evidentlyai/evidently) - ⭐ 6793 - Jupyter Notebook
+- [evidently](https://github.com/evidentlyai/evidently) - ⭐ 6796 - Jupyter Notebook
   Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
-- [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 6730 - Rust
+- [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 6731 - Rust
   A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [baml](https://github.com/BoundaryML/baml) - ⭐ 6654 - Rust
+- [baml](https://github.com/BoundaryML/baml) - ⭐ 6660 - Rust
   The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
-- [postgresml](https://github.com/postgresml/postgresml) - ⭐ 6616 - Rust
+- [postgresml](https://github.com/postgresml/postgresml) - ⭐ 6617 - Rust
   Postgres with GPUs for ML/AI apps.
-- [julep](https://github.com/julep-ai/julep) - ⭐ 6605 - Jupyter Notebook
+- [julep](https://github.com/julep-ai/julep) - ⭐ 6606 - Jupyter Notebook
   Deploy serverless AI workflows at scale. Firebase for AI agents
 - [SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - ⭐ 6292
   SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
-- [LaVague](https://github.com/lavague-ai/LaVague) - ⭐ 6195 - Python
+- [LaVague](https://github.com/lavague-ai/LaVague) - ⭐ 6197 - Python
   Large Action Model framework to develop AI Web Agents
 - [skorch](https://github.com/skorch-dev/skorch) - ⭐ 6127 - Jupyter Notebook
   A scikit-learn compatible neural network library that wraps PyTorch
-- [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - ⭐ 6104 - Python
+- [mmdetection3d](https://github.com/open-mmlab/mmdetection3d) - ⭐ 6107 - Python
   OpenMMLab's next-generation platform for general 3D object detection.
 - [open-deep-research](https://github.com/nickscamara/open-deep-research) - ⭐ 6091 - TypeScript
   An open source deep research clone. AI Agent that reasons large amounts of web data extracted with Firecrawl
-- [fragments](https://github.com/e2b-dev/fragments) - ⭐ 5980 - TypeScript
+- [fragments](https://github.com/e2b-dev/fragments) - ⭐ 5981 - TypeScript
   Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - ⭐ 5951 - Go
   LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.
@@ -274,105 +274,105 @@ Total repositories: 373 | Total stars: 3092488
   Publication-ready NN-architecture schematics. 
 - [LLMLingua](https://github.com/microsoft/LLMLingua) - ⭐ 5553 - Python
   [EMNLP'23, ACL'24] To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. 
-- [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - ⭐ 5476
+- [ai-by-hand-excel](https://github.com/ImagineAILab/ai-by-hand-excel) - ⭐ 5481
   
-- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - ⭐ 5471 - Python
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - ⭐ 5472 - Python
   PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
 - [parler-tts](https://github.com/huggingface/parler-tts) - ⭐ 5464 - Python
   Inference and training library for high-quality TTS models.
 - [composer](https://github.com/mosaicml/composer) - ⭐ 5433 - Python
   Supercharge Your Model Training
-- [CodeGen](https://github.com/salesforce/CodeGen) - ⭐ 5146 - Python
+- [CodeGen](https://github.com/salesforce/CodeGen) - ⭐ 5147 - Python
   CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
-- [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - ⭐ 5118 - JavaScript
+- [stockpredictionai](https://github.com/borisbanushev/stockpredictionai) - ⭐ 5121 - JavaScript
          In this noteboook I will create a complete process for predicting stock price movements. Follow along and we will achieve some pretty good results. For that purpose we will use a Generative Adversarial Network (GAN) with LSTM, a type of Recurrent Neural Network, as generator, and a Convolutional Neural Network, CNN, as a discriminator. We use LSTM for the obvious reason that we are trying to predict time series data. Why we use GAN and specifically CNN as a discriminator? That is a good question: there are special sections on that later.
 - [sparrow](https://github.com/katanaml/sparrow) - ⭐ 5032 - Python
   Structured data extraction and instruction calling with ML, LLM and Vision LLM
-- [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - ⭐ 4983 - Python
+- [AutoGPTQ](https://github.com/AutoGPTQ/AutoGPTQ) - ⭐ 4985 - Python
   An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
-- [super-gradients](https://github.com/Deci-AI/super-gradients) - ⭐ 4942 - Jupyter Notebook
+- [super-gradients](https://github.com/Deci-AI/super-gradients) - ⭐ 4943 - Jupyter Notebook
   Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.
-- [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - ⭐ 4882 - Python
+- [BlenderGPT](https://github.com/gd3kr/BlenderGPT) - ⭐ 4883 - Python
   Use commands in English to control Blender with OpenAI's GPT-4
 - [AIOS](https://github.com/agiresearch/AIOS) - ⭐ 4766 - Python
   AIOS: AI Agent Operating System
-- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4579 - TypeScript
+- [vibe-tools](https://github.com/eastlondoner/vibe-tools) - ⭐ 4578 - TypeScript
   Give Cursor Agent an AI Team and Advanced Skills
 - [tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - ⭐ 4554 - Python
   Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% 
 - [Merlion](https://github.com/salesforce/Merlion) - ⭐ 4441 - Python
   Merlion: A Machine Learning Framework for Time Series Intelligence
-- [aibrix](https://github.com/vllm-project/aibrix) - ⭐ 4356 - Go
+- [aibrix](https://github.com/vllm-project/aibrix) - ⭐ 4358 - Go
   Cost-efficient and pluggable Infrastructure components for GenAI inference
-- [LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - ⭐ 4331
+- [LLM-engineer-handbook](https://github.com/SylphAI-Inc/LLM-engineer-handbook) - ⭐ 4332
   A curated list of Large Language Model resources, covering model training, serving, fine-tuning, and building LLM applications.
-- [archgw](https://github.com/katanemo/archgw) - ⭐ 4303 - Rust
+- [archgw](https://github.com/katanemo/archgw) - ⭐ 4308 - Rust
   The data plane for agents. Arch is a models-native proxy server that handles the plumbing work in AI: agent routing & hand off, guardrails, zero-code logs and traces, unified access to LLMs from OpenAI, Anthropic, Ollama, etc. Build agents faster, and scale them reliably.
-- [rivet](https://github.com/Ironclad/rivet) - ⭐ 4269 - TypeScript
+- [rivet](https://github.com/Ironclad/rivet) - ⭐ 4272 - TypeScript
   The open-source visual AI programming environment and TypeScript library
 - [g1](https://github.com/build-with-groq/g1) - ⭐ 4223 - Python
   g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains
-- [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - ⭐ 4159 - Jupyter Notebook
+- [gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) - ⭐ 4158 - Jupyter Notebook
   
-- [llm-datasets](https://github.com/mlabonne/llm-datasets) - ⭐ 3843
+- [llm-datasets](https://github.com/mlabonne/llm-datasets) - ⭐ 3845
   Curated list of datasets and tools for post-training.
-- [adrenaline](https://github.com/shobrook/adrenaline) - ⭐ 3777
+- [adrenaline](https://github.com/shobrook/adrenaline) - ⭐ 3776
   Chat with (and visualize) your codebase
-- [langroid](https://github.com/langroid/langroid) - ⭐ 3752 - Python
+- [langroid](https://github.com/langroid/langroid) - ⭐ 3753 - Python
   Harness LLMs with Multi-Agent Programming
-- [zep](https://github.com/getzep/zep) - ⭐ 3749 - Python
+- [zep](https://github.com/getzep/zep) - ⭐ 3748 - Python
   Zep | Examples, Integrations, & More
-- [LitServe](https://github.com/Lightning-AI/LitServe) - ⭐ 3684 - Python
+- [LitServe](https://github.com/Lightning-AI/LitServe) - ⭐ 3683 - Python
   Build custom inference engines for models, agents, multi-modal systems, RAG, pipelines and more.
-- [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - ⭐ 3558 - Python
+- [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) - ⭐ 3599 - Python
   Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection
-- [llama-hub](https://github.com/run-llama/llama-hub) - ⭐ 3478 - Jupyter Notebook
+- [llama-hub](https://github.com/run-llama/llama-hub) - ⭐ 3479 - Jupyter Notebook
   A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain
-- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - ⭐ 3476 - TypeScript
+- [vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - ⭐ 3474 - TypeScript
   An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [Devon](https://github.com/entropy-research/Devon) - ⭐ 3459 - Python
   Devon: An open-source pair programmer
-- [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - ⭐ 3425 - Jupyter Notebook
+- [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - ⭐ 3426 - Jupyter Notebook
   [CCS'24] A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
-- [ADeus](https://github.com/adamcohenhillel/ADeus) - ⭐ 3315 - TypeScript
+- [ADeus](https://github.com/adamcohenhillel/ADeus) - ⭐ 3316 - TypeScript
   An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.
-- [open-instruct](https://github.com/allenai/open-instruct) - ⭐ 3284 - Python
+- [open-instruct](https://github.com/allenai/open-instruct) - ⭐ 3285 - Python
   AllenAI's post-training codebase
-- [hmmlearn](https://github.com/hmmlearn/hmmlearn) - ⭐ 3279 - Python
+- [hmmlearn](https://github.com/hmmlearn/hmmlearn) - ⭐ 3281 - Python
   Hidden Markov Models in Python, with scikit-learn like API
 - [gptscript](https://github.com/gptscript-ai/gptscript) - ⭐ 3262 - Go
   Build AI assistants that interact with your systems
-- [lazypredict](https://github.com/shankarpandala/lazypredict) - ⭐ 3251 - Python
+- [lazypredict](https://github.com/shankarpandala/lazypredict) - ⭐ 3249 - Python
   Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning
 - [PySR](https://github.com/MilesCranmer/PySR) - ⭐ 3187 - Python
   High-Performance Symbolic Regression in Python and Julia
-- [LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - ⭐ 3090 - Python
+- [LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - ⭐ 3089 - Python
   LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level.
+- [PyRIT](https://github.com/Azure/PyRIT) - ⭐ 3055 - Python
+  The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [neuraloperator](https://github.com/neuraloperator/neuraloperator) - ⭐ 3053 - Python
   Learning in infinite dimension with neural operators.
-- [PyRIT](https://github.com/Azure/PyRIT) - ⭐ 3051 - Python
-  The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [Pearl](https://github.com/facebookresearch/Pearl) - ⭐ 2951 - Jupyter Notebook
   A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta. 
-- [database-build](https://github.com/supabase-community/database-build) - ⭐ 2912 - TypeScript
+- [database-build](https://github.com/supabase-community/database-build) - ⭐ 2913 - TypeScript
   In-browser Postgres sandbox with AI assistance (formerly postgres.new)
-- [k3s-ansible](https://github.com/timothystewart6/k3s-ansible) - ⭐ 2887 - Jinja
+- [k3s-ansible](https://github.com/timothystewart6/k3s-ansible) - ⭐ 2888 - Jinja
   The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - ⭐ 2868 - Python
   o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow.
-- [zml](https://github.com/zml/zml) - ⭐ 2850 - Zig
+- [zml](https://github.com/zml/zml) - ⭐ 2853 - Zig
   Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild
 - [s4](https://github.com/state-spaces/s4) - ⭐ 2768 - Jupyter Notebook
   Structured state space sequence models
 - [GirlfriendGPT](https://github.com/EniasCailliau/GirlfriendGPT) - ⭐ 2683 - Python
   OSS AI Companion Chatbot - Build your own AI companion in Python using ChatGPT.
-- [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - ⭐ 2616 - Python
+- [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - ⭐ 2617 - Python
   An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
-- [langwatch](https://github.com/langwatch/langwatch) - ⭐ 2598 - TypeScript
+- [langwatch](https://github.com/langwatch/langwatch) - ⭐ 2597 - TypeScript
   The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
-- [griptape](https://github.com/griptape-ai/griptape) - ⭐ 2405 - Python
+- [griptape](https://github.com/griptape-ai/griptape) - ⭐ 2406 - Python
   Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory. 
-- [ML_Finance_Codes](https://github.com/mfrdixon/ML_Finance_Codes) - ⭐ 2402 - Jupyter Notebook
+- [ML_Finance_Codes](https://github.com/mfrdixon/ML_Finance_Codes) - ⭐ 2405 - Jupyter Notebook
   Machine Learning in Finance: From Theory to Practice Book
 - [elia](https://github.com/darrenburns/elia) - ⭐ 2351 - Python
   A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.
@@ -380,29 +380,29 @@ Total repositories: 373 | Total stars: 3092488
   Run Mixtral-8x7B models in Colab or consumer desktops
 - [DeepBI](https://github.com/DeepInsight-AI/DeepBI) - ⭐ 2303 - Python
   LLM based data scientist, AI native data application.  AI-driven infinite thinking redefines BI.
-- [large_concept_model](https://github.com/facebookresearch/large_concept_model) - ⭐ 2301 - Python
+- [large_concept_model](https://github.com/facebookresearch/large_concept_model) - ⭐ 2302 - Python
   Large Concept Models: Language modeling in a sentence representation space
-- [mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - ⭐ 2283 - Swift
+- [mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - ⭐ 2284 - Swift
   Examples using MLX Swift
-- [onur.dev](https://github.com/suyalcinkaya/onur.dev) - ⭐ 2268 - JavaScript
+- [onur.dev](https://github.com/suyalcinkaya/onur.dev) - ⭐ 2269 - JavaScript
   ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
-- [ax](https://github.com/ax-llm/ax) - ⭐ 2233 - TypeScript
+- [ax](https://github.com/ax-llm/ax) - ⭐ 2236 - TypeScript
   The pretty much "official" DSPy framework for Typescript
 - [ncps](https://github.com/mlech26l/ncps) - ⭐ 2222 - Python
   PyTorch and TensorFlow implementation of NCP, LTC, and CfC wired neural models
 - [gptq](https://github.com/IST-DASLab/gptq) - ⭐ 2214 - Python
   Code for the ICLR 2023 paper "GPTQ: Accurate Post-training Quantization of Generative Pretrained Transformers".
-- [LLMStack](https://github.com/trypromptly/LLMStack) - ⭐ 2062 - Python
+- [LLMStack](https://github.com/trypromptly/LLMStack) - ⭐ 2063 - Python
   No-code multi-agent framework to build LLM Agents, workflows and applications with your data
 - [code-interpreter](https://github.com/e2b-dev/code-interpreter) - ⭐ 2058 - MDX
   Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app 
-- [inference](https://github.com/roboflow/inference) - ⭐ 2032 - Python
+- [inference](https://github.com/roboflow/inference) - ⭐ 2033 - Python
   Turn any computer or edge device into a command center for your computer vision projects.
-- [Muon](https://github.com/KellerJordan/Muon) - ⭐ 1981 - Python
+- [Muon](https://github.com/KellerJordan/Muon) - ⭐ 1983 - Python
   Muon is an optimizer for hidden layers in neural networks
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - ⭐ 1949 - Python
   Agentless🐱:  an agentless approach to automatically solve software development problems
-- [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - ⭐ 1914 - Python
+- [reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - ⭐ 1920 - Python
   Implement a reasoning LLM in PyTorch from scratch, step by step
 - [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - ⭐ 1902 - Python
   Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
@@ -422,11 +422,11 @@ Total repositories: 373 | Total stars: 3092488
   AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [GaLore](https://github.com/jiaweizzhao/GaLore) - ⭐ 1619 - Python
   GaLore: Memory-Efficient LLM Training by Gradient Low-Rank Projection
-- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - ⭐ 1548 - Jupyter Notebook
+- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - ⭐ 1561 - Jupyter Notebook
   Codes/Notebooks for AI Projects
 - [AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - ⭐ 1535 - Python
   Convert Apple NeuralHash model for CSAM Detection to ONNX.
-- [uAgents](https://github.com/fetchai/uAgents) - ⭐ 1516 - Python
+- [uAgents](https://github.com/fetchai/uAgents) - ⭐ 1517 - Python
   A fast and lightweight framework for creating decentralized agents with ease.
 - [dataline](https://github.com/RamiAwar/dataline) - ⭐ 1483 - TypeScript
   Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
@@ -440,11 +440,11 @@ Total repositories: 373 | Total stars: 3092488
   🦾 Take control of your AI agents
 - [project_openai_codex](https://github.com/adrianhajdin/project_openai_codex) - ⭐ 1374 - JavaScript
   Build and Deploy Your Own ChatGPT AI Application That Will Help You Code
-- [mlops-python-package](https://github.com/fmind/mlops-python-package) - ⭐ 1367 - Jupyter Notebook
+- [mlops-python-package](https://github.com/fmind/mlops-python-package) - ⭐ 1368 - Jupyter Notebook
   Kickstart your MLOps initiative with a flexible, robust, and productive Python package.
 - [Moonlight](https://github.com/MoonshotAI/Moonlight) - ⭐ 1352
   Muon is Scalable for LLM Training
-- [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - ⭐ 1348 - TypeScript
+- [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - ⭐ 1349 - TypeScript
   Fully-featured web interface for Ollama LLMs
 - [infinite-bookshelf](https://github.com/Bklieger/infinite-bookshelf) - ⭐ 1347 - Python
   Infinite Bookshelf: Generate entire books in seconds using Groq and Llama3
@@ -456,7 +456,7 @@ Total repositories: 373 | Total stars: 3092488
   Training Large Language Model to Reason in a Continuous Latent Space
 - [LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding) - ⭐ 1297 - Python
   [ICML 2024] Break the Sequential Dependency of LLM Inference Using Lookahead Decoding
-- [cookbook](https://github.com/Chainlit/cookbook) - ⭐ 1294 - Python
+- [cookbook](https://github.com/Chainlit/cookbook) - ⭐ 1295 - Python
   Chainlit's cookbook repo
 - [depthai](https://github.com/luxonis/depthai) - ⭐ 1035 - Python
   DepthAI Python API utilities, examples, and tutorials.
@@ -464,7 +464,7 @@ Total repositories: 373 | Total stars: 3092488
   A curated collection of resources and research related to the geometry of representations in the brain, deep networks, and beyond
 - [CEBRA](https://github.com/AdaptiveMotorControlLab/CEBRA) - ⭐ 1030 - Python
   Learnable latent embeddings for joint behavioral and neural analysis - Official implementation of CEBRA
-- [geoopt](https://github.com/geoopt/geoopt) - ⭐ 999 - Python
+- [geoopt](https://github.com/geoopt/geoopt) - ⭐ 1000 - Python
   Riemannian Adaptive Optimization Methods with pytorch optim
 - [event_platform](https://github.com/adrianhajdin/event_platform) - ⭐ 968 - TypeScript
   Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
@@ -476,7 +476,7 @@ Total repositories: 373 | Total stars: 3092488
   Papers about graph transformers. 
 - [synalinks-cli](https://github.com/SynaLinks/synalinks-cli) - ⭐ 891
   🧠🔗 Synalinks coding assistant
-- [llm-examples](https://github.com/streamlit/llm-examples) - ⭐ 880 - Python
+- [llm-examples](https://github.com/streamlit/llm-examples) - ⭐ 881 - Python
   Streamlit LLM app examples for getting started
 - [moabb](https://github.com/NeuroTechX/moabb) - ⭐ 867 - Python
   Mother of All BCI Benchmarks
@@ -484,7 +484,7 @@ Total repositories: 373 | Total stars: 3092488
   Code for the ICML 2023 paper "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot".
 - [recurrent-pretraining](https://github.com/seal-rg/recurrent-pretraining) - ⭐ 842 - Python
   Pretraining and inference code for a large-scale depth-recurrent language model
-- [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) - ⭐ 814 - Python
+- [rPPG-Toolbox](https://github.com/ubicomplab/rPPG-Toolbox) - ⭐ 815 - Python
   rPPG-Toolbox: Deep Remote PPG Toolbox (NeurIPS 2023)
 - [personal-ai](https://github.com/Sh4yy/personal-ai) - ⭐ 813 - TypeScript
   
@@ -494,7 +494,7 @@ Total repositories: 373 | Total stars: 3092488
   [ICML 2024] Official repository for "Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models"
 - [Awesome-LLM-Uncertainty-Reliability-Robustness](https://github.com/jxzhangjhu/Awesome-LLM-Uncertainty-Reliability-Robustness) - ⭐ 789
   Awesome-LLM-Robustness: a curated list of Uncertainty, Reliability and Robustness in Large Language Models
-- [IoA](https://github.com/OpenBMB/IoA) - ⭐ 774 - Python
+- [IoA](https://github.com/OpenBMB/IoA) - ⭐ 775 - Python
   An open-source framework for collaborative AI agents, enabling diverse, distributed agents to team up and tackle complex tasks through internet-like connectivity.
 - [miyagi](https://github.com/Azure-Samples/miyagi) - ⭐ 747 - Jupyter Notebook
   Sample to envision intelligent apps with Microsoft's Copilot stack for AI-infused product experiences.
@@ -504,13 +504,13 @@ Total repositories: 373 | Total stars: 3092488
   Open clone of OpenAI's unreleased WebText dataset scraper. This version uses pushshift.io files instead of the API for speed.
 - [AIOpsLab](https://github.com/microsoft/AIOpsLab) - ⭐ 721 - Python
   A holistic framework to enable the design, development, and evaluation of autonomous AIOps agents.
-- [uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - ⭐ 668 - Python
+- [uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth) - ⭐ 669 - Python
   Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 and ArXiv pre-print).
 - [meshgen](https://github.com/huggingface/meshgen) - ⭐ 667 - Python
   Use AI Agents directly in Blender.
-- [torchlens](https://github.com/johnmarktaylor91/torchlens) - ⭐ 624 - Python
+- [torchlens](https://github.com/johnmarktaylor91/torchlens) - ⭐ 625 - Python
   Package for extracting and mapping the results of every single tensor operation in a PyTorch model in one line of code. 
-- [htmldocs](https://github.com/htmldocs-js/htmldocs) - ⭐ 605 - TypeScript
+- [htmldocs](https://github.com/htmldocs-js/htmldocs) - ⭐ 607 - TypeScript
   The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind
 - [N-BEATS](https://github.com/ServiceNow/N-BEATS) - ⭐ 589 - Python
   N-BEATS is a neural-network based model for univariate timeseries forecasting. N-BEATS is a ServiceNow Research project that was started at Element AI.
@@ -524,7 +524,7 @@ Total repositories: 373 | Total stars: 3092488
   OpenDiLoCo: An Open-Source Framework for Globally Distributed Low-Communication Training
 - [RETFound](https://github.com/rmaphoh/RETFound) - ⭐ 541 - Python
   Vision Foundation Models for Medical AI, including RETFound, DINOv2, DINOv3
-- [temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - ⭐ 538 - Python
+- [temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - ⭐ 539 - Python
   This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
 - [ollama-voice-mac](https://github.com/apeatling/ollama-voice-mac) - ⭐ 507 - Python
   Mac compatible Ollama Voice
@@ -534,19 +534,19 @@ Total repositories: 373 | Total stars: 3092488
   clean & curate your data with LLMs.
 - [suggested-notation-for-machine-learning](https://github.com/mazhengcn/suggested-notation-for-machine-learning) - ⭐ 488 - TeX
   This introduces a suggestion of mathematical notation protocol for machine learning.
-- [DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) - ⭐ 471 - Jupyter Notebook
+- [DL4Proteins-notebooks](https://github.com/Graylab/DL4Proteins-notebooks) - ⭐ 476 - Jupyter Notebook
   Colab Notebooks covering deep learning tools for biomolecular structure prediction and design
 - [relik](https://github.com/SapienzaNLP/relik) - ⭐ 469 - Python
   Retrieve, Read and LinK: Fast and Accurate Entity Linking and Relation Extraction on an Academic Budget (ACL 2024)
 - [phasellm](https://github.com/wgryc/phasellm) - ⭐ 458 - Python
   Large language model evaluation and workflow framework from Phase AI.
-- [TPA](https://github.com/tensorgi/TPA) - ⭐ 422 - Python
+- [TPA](https://github.com/tensorgi/TPA) - ⭐ 424 - Python
   [NeurIPS 2025 Spotlight] TPA: Tensor ProducT ATTenTion Transformer (T6) (https://arxiv.org/abs/2501.06425)
-- [n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) - ⭐ 413 - JavaScript
+- [n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) - ⭐ 416 - JavaScript
   AI assistant integration for n8n workflow automation through Model Context Protocol (MCP). Connect Claude Desktop, ChatGPT, and other AI assistants to n8n for natural language workflow management.
 - [gemlite](https://github.com/dropbox/gemlite) - ⭐ 392 - Python
   Fast low-bit matmul kernels in Triton
-- [liquid-s4](https://github.com/raminmh/liquid-s4) - ⭐ 374 - Python
+- [liquid-s4](https://github.com/raminmh/liquid-s4) - ⭐ 375 - Python
   Liquid Structural State-Space Models
 - [lionagi](https://github.com/khive-ai/lionagi) - ⭐ 373 - Python
   AGI SDK
@@ -560,11 +560,11 @@ Total repositories: 373 | Total stars: 3092488
   The Tree of Thoughts (ToT) framework for solving complex reasoning tasks using LLMs
 - [Orient-Anything](https://github.com/SpatialVision/Orient-Anything) - ⭐ 344 - Python
   Orient Anything, ICML 2025
-- [AgentRun](https://github.com/tjmlabs/AgentRun) - ⭐ 338 - Python
+- [AgentRun](https://github.com/tjmlabs/AgentRun) - ⭐ 339 - Python
   The easiest, and fastest way to run AI-generated Python code safely
 - [syftr](https://github.com/datarobot/syftr) - ⭐ 320 - Python
   syftr is an agent optimizer that helps you find the best agentic workflows for your budget.
-- [FruitNeRF](https://github.com/meyerls/FruitNeRF) - ⭐ 312 - Python
+- [FruitNeRF](https://github.com/meyerls/FruitNeRF) - ⭐ 313 - Python
   [IROS24] Offical Code for "FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework" - Inegrated into Nerfstudio
 - [ml-sigma-reparam](https://github.com/apple/ml-sigma-reparam) - ⭐ 310 - Python
   
@@ -586,11 +586,11 @@ Total repositories: 373 | Total stars: 3092488
   A cool AI Diagram generator from a given topic, that streams the partial diagrams from the incomplete JSONs during generation. Built using LlamaIndex, Vercel AI SDK.
 - [neural_networks_chomsky_hierarchy](https://github.com/google-deepmind/neural_networks_chomsky_hierarchy) - ⭐ 211 - Python
   Neural Networks and the Chomsky Hierarchy
-- [autogluon-assistant](https://github.com/autogluon/autogluon-assistant) - ⭐ 204 - Python
+- [autogluon-assistant](https://github.com/autogluon/autogluon-assistant) - ⭐ 205 - Python
   Multi-Agent System Powered by LLMs for End-to-end Multimodal ML Automation
-- [ecg-fm](https://github.com/bowang-lab/ecg-fm) - ⭐ 202 - Python
+- [ecg-fm](https://github.com/bowang-lab/ecg-fm) - ⭐ 203 - Python
   An electrocardiogram analysis foundation model.
-- [MLX-GRPO](https://github.com/Doriandarko/MLX-GRPO) - ⭐ 198 - Python
+- [MLX-GRPO](https://github.com/Doriandarko/MLX-GRPO) - ⭐ 199 - Python
   A pure MLX-based training pipeline for fine-tuning LLMs using GRPO on Apple Silicon. 
 - [SymbCoT](https://github.com/Aiden0526/SymbCoT) - ⭐ 195 - Python
   Codes and Data for ACL 2024 Paper "Faithful Logical Reasoning via Symbolic Chain-of-Thought".
@@ -612,10 +612,10 @@ Total repositories: 373 | Total stars: 3092488
   $100K or 100 Days: Trade-offs when Pre-Training with Academic Resources
 - [simulated-bifurcation-algorithm](https://github.com/bqth29/simulated-bifurcation-algorithm) - ⭐ 147 - Python
   Python CPU/GPU implementation of the Simulated Bifurcation (SB) algorithm to solve quadratic optimization problems (QUBO, Ising, TSP, optimal asset allocations for a portfolio, etc.).
+- [hume-python-sdk](https://github.com/HumeAI/hume-python-sdk) - ⭐ 146 - Python
+  Python client for Hume AI
 - [ml-superposition-prompting](https://github.com/apple/ml-superposition-prompting) - ⭐ 146 - Python
   
-- [hume-python-sdk](https://github.com/HumeAI/hume-python-sdk) - ⭐ 145 - Python
-  Python client for Hume AI
 - [instagraph-nextjs-fastapi](https://github.com/waseemhnyc/instagraph-nextjs-fastapi) - ⭐ 142 - TypeScript
   Generate knowledge graphs. Inspired by @yoheinakajima instagraph.ai
 - [awesome-tensorial-neural-networks](https://github.com/tnbar/awesome-tensorial-neural-networks) - ⭐ 141
@@ -820,7 +820,7 @@ Total repositories: 373 | Total stars: 3092488
 
 ### Web Development
 
-Total repositories: 45 | Total stars: 727487
+Total repositories: 45 | Total stars: 727764
 
 **Languages:**
 - TypeScript: 28 repositories
@@ -830,79 +830,79 @@ Total repositories: 45 | Total stars: 727487
 - Vue: 1 repositories
 
 **Top Repositories:**
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93004
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93068
   The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88600
+- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88612
   Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [immich](https://github.com/immich-app/immich) - ⭐ 83688
+- [immich](https://github.com/immich-app/immich) - ⭐ 83763
   High performance self-hosted photo and video management solution.
 
 **Recent Updates:**
+- [payload](https://github.com/payloadcms/payload) - 11/8/2025
+  Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
+- [it-tools](https://github.com/CorentinTh/it-tools) - 11/8/2025
+  Collection of handy online tools for developers, with great UX. 
 - [postiz-app](https://github.com/gitroomhq/postiz-app) - 11/8/2025
   📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - 11/7/2025
-  The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [immich](https://github.com/immich-app/immich) - 11/7/2025
-  High performance self-hosted photo and video management solution.
 
 **All Repositories:**
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93004 - Python
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - ⭐ 93068 - Python
   The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88600 - TypeScript
+- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88612 - TypeScript
   Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [immich](https://github.com/immich-app/immich) - ⭐ 83688 - TypeScript
+- [immich](https://github.com/immich-app/immich) - ⭐ 83763 - TypeScript
   High performance self-hosted photo and video management solution.
-- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - ⭐ 71141 - Python
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code) - ⭐ 71139 - Python
   Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [open-interpreter](https://github.com/openinterpreter/open-interpreter) - ⭐ 60792 - Python
+- [open-interpreter](https://github.com/openinterpreter/open-interpreter) - ⭐ 60795 - Python
   A natural language interface for computers
-- [materialize](https://github.com/Dogfalo/materialize) - ⭐ 39144 - JavaScript
+- [materialize](https://github.com/Dogfalo/materialize) - ⭐ 39145 - JavaScript
   Materialize, a CSS Framework based on Material Design
-- [payload](https://github.com/payloadcms/payload) - ⭐ 38608 - TypeScript
+- [payload](https://github.com/payloadcms/payload) - ⭐ 38621 - TypeScript
   Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.
-- [it-tools](https://github.com/CorentinTh/it-tools) - ⭐ 33910 - Vue
+- [it-tools](https://github.com/CorentinTh/it-tools) - ⭐ 33923 - Vue
   Collection of handy online tools for developers, with great UX. 
-- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - ⭐ 24793 - TypeScript
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - ⭐ 24801 - TypeScript
   React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [postiz-app](https://github.com/gitroomhq/postiz-app) - ⭐ 24186 - TypeScript
+- [postiz-app](https://github.com/gitroomhq/postiz-app) - ⭐ 24195 - TypeScript
   📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
-- [simdjson](https://github.com/simdjson/simdjson) - ⭐ 22696 - C++
+- [simdjson](https://github.com/simdjson/simdjson) - ⭐ 22699 - C++
   Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-- [supermemory](https://github.com/supermemoryai/supermemory) - ⭐ 13366 - TypeScript
+- [supermemory](https://github.com/supermemoryai/supermemory) - ⭐ 13405 - TypeScript
   Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [midday](https://github.com/midday-ai/midday) - ⭐ 12860 - TypeScript
+- [midday](https://github.com/midday-ai/midday) - ⭐ 12864 - TypeScript
   Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-- [conductor](https://github.com/Netflix/conductor) - ⭐ 12784 - Java
+- [conductor](https://github.com/Netflix/conductor) - ⭐ 12785 - Java
   Conductor is a microservices orchestration engine.
-- [documenso](https://github.com/documenso/documenso) - ⭐ 11836 - TypeScript
+- [documenso](https://github.com/documenso/documenso) - ⭐ 11840 - TypeScript
   The Open Source DocuSign Alternative.
 - [G6](https://github.com/antvis/G6) - ⭐ 11788 - TypeScript
   ♾ A Graph Visualization Framework in JavaScript.
-- [E2B](https://github.com/e2b-dev/E2B) - ⭐ 9809 - MDX
+- [E2B](https://github.com/e2b-dev/E2B) - ⭐ 9814 - MDX
   Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9324 - TypeScript
+- [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9328 - TypeScript
   The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
 - [baseweb](https://github.com/uber/baseweb) - ⭐ 8892 - TypeScript
   A React Component library implementing the Base design language
-- [morphic](https://github.com/miurla/morphic) - ⭐ 8322 - TypeScript
+- [morphic](https://github.com/miurla/morphic) - ⭐ 8325 - TypeScript
   An AI-powered search engine with a generative UI
-- [next-enterprise](https://github.com/Blazity/next-enterprise) - ⭐ 7194 - TypeScript
+- [next-enterprise](https://github.com/Blazity/next-enterprise) - ⭐ 7195 - TypeScript
   💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development.
-- [julep](https://github.com/julep-ai/julep) - ⭐ 6605 - Jupyter Notebook
+- [julep](https://github.com/julep-ai/julep) - ⭐ 6606 - Jupyter Notebook
   Deploy serverless AI workflows at scale. Firebase for AI agents
-- [fragments](https://github.com/e2b-dev/fragments) - ⭐ 5980 - TypeScript
+- [fragments](https://github.com/e2b-dev/fragments) - ⭐ 5981 - TypeScript
   Open-source Next.js template for building apps that are fully generated by AI. By E2B.
-- [rivet](https://github.com/Ironclad/rivet) - ⭐ 4269 - TypeScript
+- [rivet](https://github.com/Ironclad/rivet) - ⭐ 4272 - TypeScript
   The open-source visual AI programming environment and TypeScript library
 - [google-api-javascript-client](https://github.com/google/google-api-javascript-client) - ⭐ 3435 - CSS
   Google APIs Client Library for browser JavaScript, aka gapi.
-- [cyclops](https://github.com/cyclops-ui/cyclops) - ⭐ 3286 - Go
+- [cyclops](https://github.com/cyclops-ui/cyclops) - ⭐ 3287 - Go
   Developer Friendly Kubernetes 👁️
-- [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - ⭐ 2565 - TypeScript
+- [react-pdf-viewer](https://github.com/react-pdf-viewer/react-pdf-viewer) - ⭐ 2566 - TypeScript
   A React component to view a PDF document
-- [onur.dev](https://github.com/suyalcinkaya/onur.dev) - ⭐ 2268 - JavaScript
+- [onur.dev](https://github.com/suyalcinkaya/onur.dev) - ⭐ 2269 - JavaScript
   ✦ My personal website built using Next.js, Tailwind CSS, shadcn/ui, Contentful, Raindrop, Supabase and deployed on Vercel.
-- [ax](https://github.com/ax-llm/ax) - ⭐ 2233 - TypeScript
+- [ax](https://github.com/ax-llm/ax) - ⭐ 2236 - TypeScript
   The pretty much "official" DSPy framework for Typescript
 - [code-interpreter](https://github.com/e2b-dev/code-interpreter) - ⭐ 2058 - MDX
   Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app 
@@ -910,15 +910,15 @@ Total repositories: 45 | Total stars: 727487
   Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
 - [shadcn-chat](https://github.com/jakobhoeg/shadcn-chat) - ⭐ 1568 - TypeScript
   CLI for adding customizable and re-usable chat components to your applications. Build beautiful chat interfaces in minutes.
-- [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - ⭐ 1348 - TypeScript
+- [nextjs-ollama-llm-ui](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) - ⭐ 1349 - TypeScript
   Fully-featured web interface for Ollama LLMs
 - [event_platform](https://github.com/adrianhajdin/event_platform) - ⭐ 968 - TypeScript
   Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
 - [react-view](https://github.com/uber/react-view) - ⭐ 710 - TypeScript
   React View is an interactive playground, documentation and code generator for your components.
-- [htmldocs](https://github.com/htmldocs-js/htmldocs) - ⭐ 605 - TypeScript
+- [htmldocs](https://github.com/htmldocs-js/htmldocs) - ⭐ 607 - TypeScript
   The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind
-- [n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) - ⭐ 413 - JavaScript
+- [n8n-workflow-builder](https://github.com/makafeli/n8n-workflow-builder) - ⭐ 416 - JavaScript
   AI assistant integration for n8n workflow automation through Model Context Protocol (MCP). Connect Claude Desktop, ChatGPT, and other AI assistants to n8n for natural language workflow management.
 - [js-agent](https://github.com/lgrammel/js-agent) - ⭐ 266 - TypeScript
   Build AI Agents with JS & TS
@@ -940,7 +940,7 @@ Total repositories: 45 | Total stars: 727487
 
 ### DevOps & Infrastructure
 
-Total repositories: 22 | Total stars: 263090
+Total repositories: 22 | Total stars: 263214
 
 **Languages:**
 - Jupyter Notebook: 5 repositories
@@ -950,47 +950,47 @@ Total repositories: 22 | Total stars: 263090
 - HCL: 2 repositories
 
 **Top Repositories:**
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101476
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101513
   21 Lessons, Get Started Building with Generative AI 
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - ⭐ 50804
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - ⭐ 50831
   The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [glance](https://github.com/glanceapp/glance) - ⭐ 29356
+- [glance](https://github.com/glanceapp/glance) - ⭐ 29392
   A self-hosted dashboard that puts all your feeds in one place
 
 **Recent Updates:**
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 11/7/2025
-  21 Lessons, Get Started Building with Generative AI 
-- [glance](https://github.com/glanceapp/glance) - 11/7/2025
-  A self-hosted dashboard that puts all your feeds in one place
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - 11/7/2025
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - 11/8/2025
   The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - 11/8/2025
+  AI powered Kubernetes Assistant
+- [glance](https://github.com/glanceapp/glance) - 11/8/2025
+  A self-hosted dashboard that puts all your feeds in one place
 
 **All Repositories:**
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101476 - Jupyter Notebook
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - ⭐ 101513 - Jupyter Notebook
   21 Lessons, Get Started Building with Generative AI 
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - ⭐ 50804 - JavaScript
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm) - ⭐ 50831 - JavaScript
   The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
-- [glance](https://github.com/glanceapp/glance) - ⭐ 29356 - Go
+- [glance](https://github.com/glanceapp/glance) - ⭐ 29392 - Go
   A self-hosted dashboard that puts all your feeds in one place
-- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - ⭐ 24793 - TypeScript
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit) - ⭐ 24801 - TypeScript
   React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-- [prefect](https://github.com/PrefectHQ/prefect) - ⭐ 20771 - Python
+- [prefect](https://github.com/PrefectHQ/prefect) - ⭐ 20776 - Python
   Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - ⭐ 7432 - Python
+- [azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) - ⭐ 7433 - Python
   A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models  to power ChatGPT-style and Q&A experiences.
-- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ⭐ 6973 - Go
+- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ⭐ 6977 - Go
   AI powered Kubernetes Assistant
-- [aibrix](https://github.com/vllm-project/aibrix) - ⭐ 4356 - Go
+- [aibrix](https://github.com/vllm-project/aibrix) - ⭐ 4358 - Go
   Cost-efficient and pluggable Infrastructure components for GenAI inference
-- [cyclops](https://github.com/cyclops-ui/cyclops) - ⭐ 3286 - Go
+- [cyclops](https://github.com/cyclops-ui/cyclops) - ⭐ 3287 - Go
   Developer Friendly Kubernetes 👁️
-- [k3s-ansible](https://github.com/timothystewart6/k3s-ansible) - ⭐ 2887 - Jinja
+- [k3s-ansible](https://github.com/timothystewart6/k3s-ansible) - ⭐ 2888 - Jinja
   The easiest way to bootstrap a self-hosted High Availability Kubernetes cluster.  A fully automated HA k3s etcd install with kube-vip, MetalLB, and more.  Build. Destroy. Repeat.
 - [DevOps-Bootcamp](https://github.com/kunal-kushwaha/DevOps-Bootcamp) - ⭐ 2301
   This repository consists of the code samples, assignments, and notes for the DevOps bootcamp of WeMakeDevs.
-- [inference](https://github.com/roboflow/inference) - ⭐ 2032 - Python
+- [inference](https://github.com/roboflow/inference) - ⭐ 2033 - Python
   Turn any computer or edge device into a command center for your computer vision projects.
-- [homelab](https://github.com/ChristianLempa/homelab) - ⭐ 1941 - HCL
+- [homelab](https://github.com/ChristianLempa/homelab) - ⭐ 1942 - HCL
   This is my entire homelab documentation files. Here you'll find notes, setups, and configurations for infrastructure, applications, networking, and more.
 - [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) - ⭐ 1902 - Python
   Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
@@ -1014,7 +1014,7 @@ Total repositories: 22 | Total stars: 263090
 
 ### Data Science & Analytics
 
-Total repositories: 31 | Total stars: 217978
+Total repositories: 31 | Total stars: 218053
 
 **Languages:**
 - Python: 13 repositories
@@ -1024,63 +1024,63 @@ Total repositories: 31 | Total stars: 217978
 - Svelte: 1 repositories
 
 **Top Repositories:**
-- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - ⭐ 44205
+- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - ⭐ 44231
   Learn how to design, develop, deploy and iterate on production-grade ML applications.
-- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 22740
+- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 22749
   🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [prefect](https://github.com/PrefectHQ/prefect) - ⭐ 20771
+- [prefect](https://github.com/PrefectHQ/prefect) - ⭐ 20776
   Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 
 **Recent Updates:**
-- [data-formulator](https://github.com/microsoft/data-formulator) - 11/7/2025
-  🪄 Create rich visualizations with AI 
-- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - 11/7/2025
+- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - 11/8/2025
   Codes/Notebooks for AI Projects
-- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 11/7/2025
-  🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [prefect](https://github.com/PrefectHQ/prefect) - 11/8/2025
+  Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
+- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - 11/8/2025
+  Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 **All Repositories:**
-- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - ⭐ 44205 - Jupyter Notebook
+- [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - ⭐ 44231 - Jupyter Notebook
   Learn how to design, develop, deploy and iterate on production-grade ML applications.
-- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 22740
+- [best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - ⭐ 22749
   🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [prefect](https://github.com/PrefectHQ/prefect) - ⭐ 20771 - Python
+- [prefect](https://github.com/PrefectHQ/prefect) - ⭐ 20776 - Python
   Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [taipy](https://github.com/Avaiga/taipy) - ⭐ 18849 - Python
+- [taipy](https://github.com/Avaiga/taipy) - ⭐ 18855 - Python
   Turns Data and AI algorithms into production-ready web applications in no time.
-- [pygwalker](https://github.com/Kanaries/pygwalker) - ⭐ 15377 - Python
+- [pygwalker](https://github.com/Kanaries/pygwalker) - ⭐ 15379 - Python
   PyGWalker: Turn your dataframe into an interactive UI for visual analysis
-- [data-formulator](https://github.com/microsoft/data-formulator) - ⭐ 14080 - TypeScript
+- [data-formulator](https://github.com/microsoft/data-formulator) - ⭐ 14083 - TypeScript
   🪄 Create rich visualizations with AI 
 - [G6](https://github.com/antvis/G6) - ⭐ 11788 - TypeScript
   ♾ A Graph Visualization Framework in JavaScript.
-- [ludwig](https://github.com/ludwig-ai/ludwig) - ⭐ 11611 - Python
+- [ludwig](https://github.com/ludwig-ai/ludwig) - ⭐ 11612 - Python
   Low-code framework for building custom LLMs, neural networks, and other AI models
-- [cleanlab](https://github.com/cleanlab/cleanlab) - ⭐ 11072 - Python
+- [cleanlab](https://github.com/cleanlab/cleanlab) - ⭐ 11074 - Python
   Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
-- [deeplake](https://github.com/activeloopai/deeplake) - ⭐ 8882 - Python
+- [deeplake](https://github.com/activeloopai/deeplake) - ⭐ 8884 - Python
   Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
-- [evidently](https://github.com/evidentlyai/evidently) - ⭐ 6793 - Jupyter Notebook
+- [evidently](https://github.com/evidentlyai/evidently) - ⭐ 6796 - Jupyter Notebook
   Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
-- [panel](https://github.com/holoviz/panel) - ⭐ 5509 - Python
+- [panel](https://github.com/holoviz/panel) - ⭐ 5510 - Python
   Panel: The powerful data exploration & web app framework for Python
 - [nbdev](https://github.com/AnswerDotAI/nbdev) - ⭐ 5207 - Jupyter Notebook
   Create delightful software with Jupyter Notebooks
 - [PySR](https://github.com/MilesCranmer/PySR) - ⭐ 3187 - Python
   High-Performance Symbolic Regression in Python and Julia
-- [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - ⭐ 2616 - Python
+- [ai-data-science-team](https://github.com/business-science/ai-data-science-team) - ⭐ 2617 - Python
   An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
-- [langwatch](https://github.com/langwatch/langwatch) - ⭐ 2598 - TypeScript
+- [langwatch](https://github.com/langwatch/langwatch) - ⭐ 2597 - TypeScript
   The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 - [code-interpreter](https://github.com/e2b-dev/code-interpreter) - ⭐ 2058 - MDX
   Python & JS/TS SDK for running AI-generated code/code interpreting in your AI app 
 - [manifold](https://github.com/uber/manifold) - ⭐ 1669 - JavaScript
   A model-agnostic visual debugging tool for machine learning
-- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - ⭐ 1548 - Jupyter Notebook
+- [AI-Tutorial-Codes-Included](https://github.com/Marktechpost/AI-Tutorial-Codes-Included) - ⭐ 1561 - Jupyter Notebook
   Codes/Notebooks for AI Projects
 - [dataline](https://github.com/RamiAwar/dataline) - ⭐ 1483 - TypeScript
   Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...
-- [mlops-python-package](https://github.com/fmind/mlops-python-package) - ⭐ 1367 - Jupyter Notebook
+- [mlops-python-package](https://github.com/fmind/mlops-python-package) - ⭐ 1368 - Jupyter Notebook
   Kickstart your MLOps initiative with a flexible, robust, and productive Python package.
 - [concrete-ml](https://github.com/zama-ai/concrete-ml) - ⭐ 1340 - Python
   Concrete ML: Privacy Preserving ML framework using Fully Homomorphic Encryption (FHE), built on top of Concrete, with bindings to traditional ML frameworks.
@@ -1092,7 +1092,7 @@ Total repositories: 31 | Total stars: 217978
   Distributed High-Performance Symbolic Regression in Julia
 - [notebooks](https://github.com/cohere-ai/notebooks) - ⭐ 502 - Jupyter Notebook
   Code examples and jupyter notebooks for the Cohere Platform
-- [autogluon-assistant](https://github.com/autogluon/autogluon-assistant) - ⭐ 204 - Python
+- [autogluon-assistant](https://github.com/autogluon/autogluon-assistant) - ⭐ 205 - Python
   Multi-Agent System Powered by LLMs for End-to-end Multimodal ML Automation
 - [Nextjs-template](https://github.com/anayatkhan1/Nextjs-template) - ⭐ 27 - TypeScript
   Next.js 14+ Starter with App Router, Tailwind CSS, and TypeScript ⚡️Made with developer experience. Includes Next.js, TypeScript, ESLint, Prettier, Husky, Lint-Staged, Jest, Testing Library, Playwright, Vercel Analytics & Vercel SpeedInsight. 
@@ -1106,7 +1106,7 @@ Total repositories: 31 | Total stars: 217978
 
 ### Security & Privacy
 
-Total repositories: 14 | Total stars: 295198
+Total repositories: 14 | Total stars: 295366
 
 **Languages:**
 - Python: 8 repositories
@@ -1116,31 +1116,31 @@ Total repositories: 14 | Total stars: 295198
 - Jupyter Notebook: 1 repositories
 
 **Top Repositories:**
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ⭐ 256876
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ⭐ 257028
   A list of Free Software network services and web applications which can be hosted on your own servers
-- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - ⭐ 17731
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - ⭐ 17735
   SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
-- [opencti](https://github.com/OpenCTI-Platform/opencti) - ⭐ 7916
+- [opencti](https://github.com/OpenCTI-Platform/opencti) - ⭐ 7922
   Open Cyber Threat Intelligence Platform
 
 **Recent Updates:**
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 11/7/2025
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 11/8/2025
   A list of Free Software network services and web applications which can be hosted on your own servers
-- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - 11/7/2025
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - 11/8/2025
   SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
-- [security-pcc](https://github.com/apple/security-pcc) - 11/7/2025
-  Private Cloud Compute (PCC)
+- [opencti](https://github.com/OpenCTI-Platform/opencti) - 11/8/2025
+  Open Cyber Threat Intelligence Platform
 
 **All Repositories:**
-- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ⭐ 256876
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - ⭐ 257028
   A list of Free Software network services and web applications which can be hosted on your own servers
-- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - ⭐ 17731 - Python
+- [SWE-agent](https://github.com/SWE-agent/SWE-agent) - ⭐ 17735 - Python
   SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
-- [opencti](https://github.com/OpenCTI-Platform/opencti) - ⭐ 7916 - TypeScript
+- [opencti](https://github.com/OpenCTI-Platform/opencti) - ⭐ 7922 - TypeScript
   Open Cyber Threat Intelligence Platform
-- [IntelOwl](https://github.com/intelowlproject/IntelOwl) - ⭐ 4342 - Python
+- [IntelOwl](https://github.com/intelowlproject/IntelOwl) - ⭐ 4343 - Python
   IntelOwl: manage your Threat Intelligence at scale
-- [PyRIT](https://github.com/Azure/PyRIT) - ⭐ 3051 - Python
+- [PyRIT](https://github.com/Azure/PyRIT) - ⭐ 3055 - Python
   The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [agentic_security](https://github.com/msoedov/agentic_security) - ⭐ 1670 - Python
   Agentic LLM Vulnerability Scanner / AI red teaming kit 🧪
@@ -1148,7 +1148,7 @@ Total repositories: 14 | Total stars: 295198
   Concrete ML: Privacy Preserving ML framework using Fully Homomorphic Encryption (FHE), built on top of Concrete, with bindings to traditional ML frameworks.
 - [event_platform](https://github.com/adrianhajdin/event_platform) - ⭐ 968 - TypeScript
   Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.
-- [security-pcc](https://github.com/apple/security-pcc) - ⭐ 881 - Swift
+- [security-pcc](https://github.com/apple/security-pcc) - ⭐ 882 - Swift
   Private Cloud Compute (PCC)
 - [EVA](https://github.com/microsoft/EVA) - ⭐ 253 - C++
   Compiler for the SEAL homomorphic encryption library
@@ -1164,7 +1164,7 @@ Total repositories: 14 | Total stars: 295198
 
 ### Mobile Development
 
-Total repositories: 14 | Total stars: 293017
+Total repositories: 14 | Total stars: 293210
 
 **Languages:**
 - Python: 4 repositories
@@ -1173,27 +1173,27 @@ Total repositories: 14 | Total stars: 293017
 - Java: 2 repositories
 
 **Top Repositories:**
-- [supabase](https://github.com/supabase/supabase) - ⭐ 92155
+- [supabase](https://github.com/supabase/supabase) - ⭐ 92259
   The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88600
+- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88612
   Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [immich](https://github.com/immich-app/immich) - ⭐ 83688
+- [immich](https://github.com/immich-app/immich) - ⭐ 83763
   High performance self-hosted photo and video management solution.
 
 **Recent Updates:**
-- [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - 11/7/2025
-  Display and customize Markdown text in SwiftUI
-- [immich](https://github.com/immich-app/immich) - 11/7/2025
-  High performance self-hosted photo and video management solution.
-- [supabase](https://github.com/supabase/supabase) - 11/7/2025
+- [supabase](https://github.com/supabase/supabase) - 11/8/2025
   The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [immich](https://github.com/immich-app/immich) - 11/8/2025
+  High performance self-hosted photo and video management solution.
+- [storybook](https://github.com/storybookjs/storybook) - 11/8/2025
+  Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 **All Repositories:**
-- [supabase](https://github.com/supabase/supabase) - ⭐ 92155 - TypeScript
+- [supabase](https://github.com/supabase/supabase) - ⭐ 92259 - TypeScript
   The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88600 - TypeScript
+- [storybook](https://github.com/storybookjs/storybook) - ⭐ 88612 - TypeScript
   Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-- [immich](https://github.com/immich-app/immich) - ⭐ 83688 - TypeScript
+- [immich](https://github.com/immich-app/immich) - ⭐ 83763 - TypeScript
   High performance self-hosted photo and video management solution.
 - [pkl](https://github.com/apple/pkl) - ⭐ 10925 - Java
   A configuration as code language with rich validation and tooling.
@@ -1201,9 +1201,9 @@ Total repositories: 14 | Total stars: 293017
   The #1 open-source voice interface for desktop, mobile, and ESP32 chips.
 - [AIOS](https://github.com/agiresearch/AIOS) - ⭐ 4766 - Python
   AIOS: AI Agent Operating System
-- [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - ⭐ 3563 - Swift
+- [swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - ⭐ 3564 - Swift
   Display and customize Markdown text in SwiftUI
-- [mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - ⭐ 2283 - Swift
+- [mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) - ⭐ 2284 - Swift
   Examples using MLX Swift
 - [HealthGPT](https://github.com/StanfordBDHG/HealthGPT) - ⭐ 1895 - Swift
   Query your Apple Health data with natural language 💬 🩺
@@ -1221,7 +1221,7 @@ Total repositories: 14 | Total stars: 293017
 
 ### Developer Tools
 
-Total repositories: 46 | Total stars: 630641
+Total repositories: 46 | Total stars: 630941
 
 **Languages:**
 - Python: 19 repositories
@@ -1231,73 +1231,73 @@ Total repositories: 46 | Total stars: 630641
 - Go: 2 repositories
 
 **Top Repositories:**
-- [immich](https://github.com/immich-app/immich) - ⭐ 83688
+- [immich](https://github.com/immich-app/immich) - ⭐ 83763
   High performance self-hosted photo and video management solution.
-- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - ⭐ 75423
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - ⭐ 75446
   real time face swap and one-click video deepfake with only a single image
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 67524
-  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 67546
+  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 **Recent Updates:**
-- [immich](https://github.com/immich-app/immich) - 11/7/2025
-  High performance self-hosted photo and video management solution.
-- [qlib](https://github.com/microsoft/qlib) - 11/7/2025
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - 11/8/2025
+  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [qlib](https://github.com/microsoft/qlib) - 11/8/2025
   Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-- [examples](https://github.com/ArjanCodes/examples) - 11/7/2025
-  All the code examples I use in my videos
+- [it-tools](https://github.com/CorentinTh/it-tools) - 11/8/2025
+  Collection of handy online tools for developers, with great UX. 
 
 **All Repositories:**
-- [immich](https://github.com/immich-app/immich) - ⭐ 83688 - TypeScript
+- [immich](https://github.com/immich-app/immich) - ⭐ 83763 - TypeScript
   High performance self-hosted photo and video management solution.
-- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - ⭐ 75423 - Python
+- [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - ⭐ 75446 - Python
   real time face swap and one-click video deepfake with only a single image
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 67524 - TypeScript
-  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - ⭐ 66090 - MDX
+- [lobe-chat](https://github.com/lobehub/lobe-chat) - ⭐ 67546 - TypeScript
+  🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - ⭐ 66110 - MDX
   🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-- [OpenHands](https://github.com/OpenHands/OpenHands) - ⭐ 64772 - Python
+- [OpenHands](https://github.com/OpenHands/OpenHands) - ⭐ 64797 - Python
   🙌 OpenHands: Code Less, Make More
-- [it-tools](https://github.com/CorentinTh/it-tools) - ⭐ 33910 - Vue
+- [it-tools](https://github.com/CorentinTh/it-tools) - ⭐ 33923 - Vue
   Collection of handy online tools for developers, with great UX. 
-- [qlib](https://github.com/microsoft/qlib) - ⭐ 33458 - Python
+- [qlib](https://github.com/microsoft/qlib) - ⭐ 33500 - Python
   Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-- [simdjson](https://github.com/simdjson/simdjson) - ⭐ 22696 - C++
+- [simdjson](https://github.com/simdjson/simdjson) - ⭐ 22699 - C++
   Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - ⭐ 22193 - Python
+- [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - ⭐ 22196 - Python
   MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-- [opcode](https://github.com/winfunc/opcode) - ⭐ 18615 - TypeScript
+- [opcode](https://github.com/winfunc/opcode) - ⭐ 18631 - TypeScript
   A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [llama-cookbook](https://github.com/meta-llama/llama-cookbook) - ⭐ 18015 - Jupyter Notebook
+- [llama-cookbook](https://github.com/meta-llama/llama-cookbook) - ⭐ 18020 - Jupyter Notebook
   Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services  
-- [cookbook](https://github.com/google-gemini/cookbook) - ⭐ 15375 - Jupyter Notebook
+- [cookbook](https://github.com/google-gemini/cookbook) - ⭐ 15385 - Jupyter Notebook
   Examples and guides for using the Gemini API
-- [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - ⭐ 13194
+- [self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - ⭐ 13204
   The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
-- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - ⭐ 12432
+- [awesome-artificial-intelligence](https://github.com/owainlewis/awesome-artificial-intelligence) - ⭐ 12436
   A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
-- [claude-engineer](https://github.com/Doriandarko/claude-engineer) - ⭐ 11138 - Python
+- [claude-engineer](https://github.com/Doriandarko/claude-engineer) - ⭐ 11139 - Python
   Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface
-- [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9324 - TypeScript
+- [inbox-zero](https://github.com/elie222/inbox-zero) - ⭐ 9328 - TypeScript
   The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
-- [deeplake](https://github.com/activeloopai/deeplake) - ⭐ 8882 - Python
+- [deeplake](https://github.com/activeloopai/deeplake) - ⭐ 8884 - Python
   Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.ai
-- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ⭐ 6973 - Go
+- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ⭐ 6977 - Go
   AI powered Kubernetes Assistant
-- [evidently](https://github.com/evidentlyai/evidently) - ⭐ 6793 - Jupyter Notebook
+- [evidently](https://github.com/evidentlyai/evidently) - ⭐ 6796 - Jupyter Notebook
   Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.
-- [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 6730 - Rust
+- [code2prompt](https://github.com/mufeedvh/code2prompt) - ⭐ 6731 - Rust
   A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
-- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - ⭐ 5471 - Python
+- [PraisonAI](https://github.com/MervinPraison/PraisonAI) - ⭐ 5472 - Python
   PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
-- [scrypted](https://github.com/koush/scrypted) - ⭐ 5236 - TypeScript
+- [scrypted](https://github.com/koush/scrypted) - ⭐ 5237 - TypeScript
   Scrypted is a high performance video integration and automation platform
 - [google-api-javascript-client](https://github.com/google/google-api-javascript-client) - ⭐ 3435 - CSS
   Google APIs Client Library for browser JavaScript, aka gapi.
-- [PyRIT](https://github.com/Azure/PyRIT) - ⭐ 3051 - Python
+- [PyRIT](https://github.com/Azure/PyRIT) - ⭐ 3055 - Python
   The Python Risk Identification Tool for generative AI (PyRIT) is an open source framework built to empower security professionals and engineers to proactively identify risks in generative AI systems.
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - ⭐ 2868 - Python
   o1-engineer is a command-line tool designed to assist developers in managing and interacting with their projects efficiently. Leveraging the power of OpenAI's API, this tool provides functionalities such as code generation, file editing, and project planning to streamline your development workflow.
-- [documentdb](https://github.com/documentdb/documentdb) - ⭐ 2842 - C
+- [documentdb](https://github.com/documentdb/documentdb) - ⭐ 2845 - C
   MongoDB-compatible database engine for cloud-native and open-source workloads. Built for scalability, performance, and developer productivity.
 - [lamini](https://github.com/lamini-ai/lamini) - ⭐ 2541 - Python
   The Official Python Client for Lamini's API
@@ -1305,21 +1305,21 @@ Total repositories: 46 | Total stars: 630641
   CLI for adding customizable and re-usable chat components to your applications. Build beautiful chat interfaces in minutes.
 - [MLE-agent](https://github.com/MLSysOps/MLE-agent) - ⭐ 1401 - Python
   🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Gemini, Ollama, etc supported. :fireworks: Code RAG
-- [examples](https://github.com/ArjanCodes/examples) - ⭐ 908 - HTML
+- [examples](https://github.com/ArjanCodes/examples) - ⭐ 909 - HTML
   All the code examples I use in my videos
 - [synalinks-cli](https://github.com/SynaLinks/synalinks-cli) - ⭐ 891
   🧠🔗 Synalinks coding assistant
 - [clifford](https://github.com/pygae/clifford) - ⭐ 835 - Python
   Geometric Algebra for Python
-- [firm](https://github.com/42futures/firm) - ⭐ 641 - Rust
+- [firm](https://github.com/42futures/firm) - ⭐ 643 - Rust
   A text-based work management system for technologists.
-- [temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - ⭐ 538 - Python
+- [temporal-ai-agent](https://github.com/temporal-community/temporal-ai-agent) - ⭐ 539 - Python
   This demo shows a multi-turn conversation with an AI agent running inside a Temporal workflow.
 - [clinicalBERT](https://github.com/kexinhuang12345/clinicalBERT) - ⭐ 427 - Jupyter Notebook
   ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission (CHIL 2020 Workshop)
 - [google-bard-api](https://github.com/ra83205/google-bard-api) - ⭐ 253 - Python
   This project provides a FastAPI wrapper for interacting with Google Bard, a conversational AI by Google. It allows users to send messages to Google Bard and receive responses through a simple API.
-- [hume-python-sdk](https://github.com/HumeAI/hume-python-sdk) - ⭐ 145 - Python
+- [hume-python-sdk](https://github.com/HumeAI/hume-python-sdk) - ⭐ 146 - Python
   Python client for Hume AI
 - [video-intelligence-api-visualiser](https://github.com/ZackAkil/video-intelligence-api-visualiser) - ⭐ 133 - JavaScript
   A simple app that lets you visualise annotations from the Google Cloud Video Intelligence API using your local files.
@@ -1343,7 +1343,7 @@ Total repositories: 46 | Total stars: 630641
 
 ### Uncategorized
 
-Total repositories: 344 | Total stars: 1499216
+Total repositories: 344 | Total stars: 1499803
 
 **Languages:**
 - Python: 188 repositories
@@ -1353,109 +1353,109 @@ Total repositories: 344 | Total stars: 1499216
 - HTML: 6 repositories
 
 **Top Repositories:**
-- [Python](https://github.com/TheAlgorithms/Python) - ⭐ 212703
+- [Python](https://github.com/TheAlgorithms/Python) - ⭐ 212797
   All Algorithms implemented in Python
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 136225
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 136245
   This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - ⭐ 91448
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - ⭐ 91455
   
 
 **Recent Updates:**
-- [opik](https://github.com/comet-ml/opik) - 11/8/2025
-  Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-- [uv](https://github.com/astral-sh/uv) - 11/7/2025
+- [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - 11/8/2025
+  Contexts Optical Compression
+- [uv](https://github.com/astral-sh/uv) - 11/8/2025
   An extremely fast Python package and project manager, written in Rust.
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) - 11/7/2025
-  LLM inference in C/C++
+- [Python](https://github.com/TheAlgorithms/Python) - 11/8/2025
+  All Algorithms implemented in Python
 
 **All Repositories:**
-- [Python](https://github.com/TheAlgorithms/Python) - ⭐ 212703 - Python
+- [Python](https://github.com/TheAlgorithms/Python) - ⭐ 212797 - Python
   All Algorithms implemented in Python
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 136225 - JavaScript
+- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - ⭐ 136245 - JavaScript
   This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - ⭐ 91448
+- [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - ⭐ 91455
   
-- [llama.cpp](https://github.com/ggml-org/llama.cpp) - ⭐ 89339 - C++
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) - ⭐ 89414 - C++
   LLM inference in C/C++
-- [markitdown](https://github.com/microsoft/markitdown) - ⭐ 82689 - Python
+- [markitdown](https://github.com/microsoft/markitdown) - ⭐ 82710 - Python
   Python tool for converting files and office documents to Markdown.
-- [uv](https://github.com/astral-sh/uv) - ⭐ 72200 - Rust
+- [uv](https://github.com/astral-sh/uv) - ⭐ 72278 - Rust
   An extremely fast Python package and project manager, written in Rust.
-- [servers](https://github.com/modelcontextprotocol/servers) - ⭐ 72127 - TypeScript
+- [servers](https://github.com/modelcontextprotocol/servers) - ⭐ 72170 - TypeScript
   Model Context Protocol Servers
-- [openpilot](https://github.com/commaai/openpilot) - ⭐ 58767 - Python
+- [openpilot](https://github.com/commaai/openpilot) - ⭐ 58776 - Python
   openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - ⭐ 35393 - Python
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice) - ⭐ 35399 - Python
   Instant voice cloning by MIT and MyShell. Audio foundation model.
-- [ControlNet](https://github.com/lllyasviel/ControlNet) - ⭐ 33263 - Python
+- [ControlNet](https://github.com/lllyasviel/ControlNet) - ⭐ 33265 - Python
   Let us control diffusion models!
-- [dspy](https://github.com/stanfordnlp/dspy) - ⭐ 29869 - Python
+- [dspy](https://github.com/stanfordnlp/dspy) - ⭐ 29881 - Python
   DSPy: The framework for programming—not prompting—language models
-- [void](https://github.com/voideditor/void) - ⭐ 27446 - TypeScript
+- [void](https://github.com/voideditor/void) - ⭐ 27450 - TypeScript
   
-- [open-r1](https://github.com/huggingface/open-r1) - ⭐ 25618 - Python
+- [open-r1](https://github.com/huggingface/open-r1) - ⭐ 25619 - Python
   Fully open reproduction of DeepSeek-R1
-- [kotaemon](https://github.com/Cinnamon/kotaemon) - ⭐ 24604 - Python
+- [kotaemon](https://github.com/Cinnamon/kotaemon) - ⭐ 24608 - Python
   An open-source RAG-based tool for chatting with your documents.
-- [OmniParser](https://github.com/microsoft/OmniParser) - ⭐ 23806 - Jupyter Notebook
+- [OmniParser](https://github.com/microsoft/OmniParser) - ⭐ 23809 - Jupyter Notebook
   A simple screen parsing tool towards pure vision based GUI agent
-- [platform](https://github.com/hcengineering/platform) - ⭐ 23592 - TypeScript
+- [platform](https://github.com/hcengineering/platform) - ⭐ 23602 - TypeScript
   Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
-- [llamafile](https://github.com/mozilla-ai/llamafile) - ⭐ 23343 - C
+- [llamafile](https://github.com/mozilla-ai/llamafile) - ⭐ 23346 - C
   Distribute and run LLMs with a single file.
-- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ⭐ 21229 - Python
+- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - ⭐ 21228 - Python
   The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [guidance](https://github.com/guidance-ai/guidance) - ⭐ 20896 - Jupyter Notebook
   A guidance language for controlling large language models.
-- [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - ⭐ 19821 - Python
+- [DeepSeek-OCR](https://github.com/deepseek-ai/DeepSeek-OCR) - ⭐ 19912 - Python
   Contexts Optical Compression
-- [surya](https://github.com/datalab-to/surya) - ⭐ 18850 - Python
+- [surya](https://github.com/datalab-to/surya) - ⭐ 18852 - Python
   OCR, layout analysis, reading order, table recognition in 90+ languages
-- [pykan](https://github.com/KindXiaoming/pykan) - ⭐ 15969 - Jupyter Notebook
+- [pykan](https://github.com/KindXiaoming/pykan) - ⭐ 15971 - Jupyter Notebook
   Kolmogorov Arnold Networks
-- [opik](https://github.com/comet-ml/opik) - ⭐ 15502 - Python
+- [opik](https://github.com/comet-ml/opik) - ⭐ 15529 - Python
   Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch) - ⭐ 15194 - Jupyter Notebook
   llama3 implementation one matrix multiplication at a time
-- [saas-starter](https://github.com/nextjs/saas-starter) - ⭐ 14803 - TypeScript
+- [saas-starter](https://github.com/nextjs/saas-starter) - ⭐ 14805 - TypeScript
   Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-- [outlines](https://github.com/dottxt-ai/outlines) - ⭐ 12811 - Python
+- [outlines](https://github.com/dottxt-ai/outlines) - ⭐ 12813 - Python
   Structured Outputs
-- [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - ⭐ 12370 - Python
+- [TinyZero](https://github.com/Jiayi-Pan/TinyZero) - ⭐ 12369 - Python
   Minimal reproduction of DeepSeek R1-Zero
-- [vggt](https://github.com/facebookresearch/vggt) - ⭐ 11558 - Python
+- [vggt](https://github.com/facebookresearch/vggt) - ⭐ 11563 - Python
   [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 - [Gymnasium](https://github.com/Farama-Foundation/Gymnasium) - ⭐ 10575 - Python
   An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)
 - [awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - ⭐ 8230
   Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
-- [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - ⭐ 7991 - Python
+- [GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0) - ⭐ 7992 - Python
   Official code implementation of General OCR Theory:  Towards OCR-2.0 via a Unified End-to-end Model
-- [AutoAgent](https://github.com/HKUDS/AutoAgent) - ⭐ 7745 - Python
+- [AutoAgent](https://github.com/HKUDS/AutoAgent) - ⭐ 7751 - Python
   "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - ⭐ 7163 - Python
   PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
-- [s1](https://github.com/simplescaling/s1) - ⭐ 6593 - Python
+- [s1](https://github.com/simplescaling/s1) - ⭐ 6592 - Python
   s1: Simple test-time scaling
 - [AppAgent](https://github.com/TencentQQGYLab/AppAgent) - ⭐ 6201 - Python
   AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
-- [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - ⭐ 5912 - Python
+- [devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - ⭐ 5915 - Python
   Magic to turn Cursor/Windsurf as 90% of Devin
-- [llama-fs](https://github.com/iyaja/llama-fs) - ⭐ 5672 - TypeScript
+- [llama-fs](https://github.com/iyaja/llama-fs) - ⭐ 5674 - TypeScript
   A self-organizing file system with llama 3
-- [tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - ⭐ 5654 - Python
+- [tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm) - ⭐ 5656 - Python
   [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
 - [open-canvas](https://github.com/langchain-ai/open-canvas) - ⭐ 5132 - TypeScript
   📃 A better UX for chat, writing content, and coding with LLMs.
 - [wolverine](https://github.com/biobootloader/wolverine) - ⭐ 5128 - Python
   
-- [giskard-oss](https://github.com/Giskard-AI/giskard-oss) - ⭐ 4964 - Python
+- [giskard-oss](https://github.com/Giskard-AI/giskard-oss) - ⭐ 4965 - Python
   🐢 Open-Source Evaluation & Testing library for LLM Agents
-- [smallpond](https://github.com/deepseek-ai/smallpond) - ⭐ 4834 - Python
+- [smallpond](https://github.com/deepseek-ai/smallpond) - ⭐ 4835 - Python
   A lightweight data processing framework built on DuckDB and 3FS.
-- [alphageometry](https://github.com/google-deepmind/alphageometry) - ⭐ 4683 - Python
+- [alphageometry](https://github.com/google-deepmind/alphageometry) - ⭐ 4685 - Python
   
-- [maestro](https://github.com/Doriandarko/maestro) - ⭐ 4282 - Python
+- [maestro](https://github.com/Doriandarko/maestro) - ⭐ 4281 - Python
   A framework for Claude Opus to intelligently orchestrate subagents.
 - [llama-stack-apps](https://github.com/llamastack/llama-stack-apps) - ⭐ 4273
   Agentic components of the Llama Stack APIs
@@ -1463,35 +1463,35 @@ Total repositories: 344 | Total stars: 1499216
   Numbers every LLM developer should know
 - [som-tsp](https://github.com/diego-vicente/som-tsp) - ⭐ 3931 - Python
   Solving the Traveling Salesman Problem using Self-Organizing Maps
-- [LoveIt](https://github.com/dillonzq/LoveIt) - ⭐ 3740 - JavaScript
+- [LoveIt](https://github.com/dillonzq/LoveIt) - ⭐ 3742 - JavaScript
   ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
 - [transformer-xl](https://github.com/kimiyoung/transformer-xl) - ⭐ 3677 - Python
   
-- [Paper2Code](https://github.com/going-doer/Paper2Code) - ⭐ 3608 - Python
+- [Paper2Code](https://github.com/going-doer/Paper2Code) - ⭐ 3610 - Python
   Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning
 - [mini-omni](https://github.com/gpt-omni/mini-omni) - ⭐ 3426 - Python
   open-source multimodal large language model that can hear, talk while thinking. Featuring real-time end-to-end speech input and streaming audio output conversational capabilities. 
-- [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - ⭐ 3158 - Python
+- [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - ⭐ 3159 - Python
   Source code for Algorithmic Trading with Python (2020) by Chris Conlan
-- [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - ⭐ 3141 - TypeScript
+- [cohere-toolkit](https://github.com/cohere-ai/cohere-toolkit) - ⭐ 3142 - TypeScript
   Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.
-- [optillm](https://github.com/algorithmicsuperintelligence/optillm) - ⭐ 3090 - Python
+- [optillm](https://github.com/algorithmicsuperintelligence/optillm) - ⭐ 3093 - Python
   Optimizing inference proxy for LLMs
 - [textgrad](https://github.com/zou-group/textgrad) - ⭐ 3068 - Python
   TextGrad: Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. Published in Nature.
-- [docetl](https://github.com/ucbepic/docetl) - ⭐ 3035 - Python
-  A system for agentic LLM-powered data processing and ETL
 - [matmulfreellm](https://github.com/ridgerchu/matmulfreellm) - ⭐ 3035 - Python
   Implementation for MatMul-free LM.
+- [docetl](https://github.com/ucbepic/docetl) - ⭐ 3034 - Python
+  A system for agentic LLM-powered data processing and ETL
 - [HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) - ⭐ 2924 - Python
   [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank.
 - [t5x](https://github.com/google-research/t5x) - ⭐ 2907 - Python
   
-- [nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - ⭐ 2898 - TypeScript
+- [nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit) - ⭐ 2900 - TypeScript
   The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included.
 - [nv-ingest](https://github.com/NVIDIA/nv-ingest) - ⭐ 2760 - Python
   NeMo Retriever extraction is a scalable, performance-oriented document content and metadata extraction microservice. NeMo Retriever extraction uses specialized NVIDIA NIM microservices to find, contextualize, and extract text, tables, charts and images that you can use in downstream generative applications.
-- [priompt](https://github.com/anysphere/priompt) - ⭐ 2714 - TypeScript
+- [priompt](https://github.com/anysphere/priompt) - ⭐ 2715 - TypeScript
   Prompt design using JSX.
 - [vimGPT](https://github.com/ishan0102/vimGPT) - ⭐ 2671 - Python
   Browse the web with GPT-4V and Vimium
@@ -1499,37 +1499,37 @@ Total repositories: 344 | Total stars: 1499216
   Official Implementation of "Graph of Thoughts: Solving Elaborate Problems with Large Language Models"
 - [gpt-author](https://github.com/mshumer/gpt-author) - ⭐ 2514 - Jupyter Notebook
   
-- [mathlib4](https://github.com/leanprover-community/mathlib4) - ⭐ 2508 - Lean
+- [mathlib4](https://github.com/leanprover-community/mathlib4) - ⭐ 2512 - Lean
   The math library of Lean 4
-- [Memary](https://github.com/kingjulio8238/Memary) - ⭐ 2505 - Jupyter Notebook
+- [Memary](https://github.com/kingjulio8238/Memary) - ⭐ 2506 - Jupyter Notebook
   The Open Source Memory Layer For Autonomous Agents
-- [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) - ⭐ 2331
+- [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) - ⭐ 2332
   A collection of AWESOME things about Graph-Related LLMs.
-- [open-codex](https://github.com/ymichael/open-codex) - ⭐ 2137 - TypeScript
+- [open-codex](https://github.com/ymichael/open-codex) - ⭐ 2138 - TypeScript
   Lightweight coding agent that runs in your terminal
-- [esm](https://github.com/evolutionaryscale/esm) - ⭐ 2129 - Python
+- [esm](https://github.com/evolutionaryscale/esm) - ⭐ 2133 - Python
   
 - [kernel-memory](https://github.com/microsoft/kernel-memory) - ⭐ 2094 - C#
   RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.
-- [classiq-library](https://github.com/Classiq/classiq-library) - ⭐ 1931 - Jupyter Notebook
+- [classiq-library](https://github.com/Classiq/classiq-library) - ⭐ 1932 - Jupyter Notebook
   The Classiq Library is the largest collection of quantum algorithms and applications. It is the best way to explore quantum computing software. We welcome community contributions to our Library 🙌
 - [qutip](https://github.com/qutip/qutip) - ⭐ 1913 - Python
   QuTiP: Quantum Toolbox in Python
 - [finBERT](https://github.com/ProsusAI/finBERT) - ⭐ 1892 - Jupyter Notebook
   Financial Sentiment Analysis with BERT
-- [iTransformer](https://github.com/thuml/iTransformer) - ⭐ 1867 - Python
+- [iTransformer](https://github.com/thuml/iTransformer) - ⭐ 1869 - Python
   Official implementation for "iTransformer: Inverted Transformers Are Effective for Time Series Forecasting" (ICLR 2024 Spotlight)
 - [openr](https://github.com/openreasoner/openr) - ⭐ 1823 - Python
   OpenR: An Open Source Framework for Advanced Reasoning with Large Language Models
 - [zarr-python](https://github.com/zarr-developers/zarr-python) - ⭐ 1822 - Python
   An implementation of chunked, compressed, N-dimensional arrays for Python.
-- [LibCST](https://github.com/Instagram/LibCST) - ⭐ 1785 - Python
+- [LibCST](https://github.com/Instagram/LibCST) - ⭐ 1786 - Python
   A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [tarsier](https://github.com/reworkd/tarsier) - ⭐ 1740 - Jupyter Notebook
   Vision utilities for web interaction agents 👀
 - [diy-spacemouse](https://github.com/sb-ocr/diy-spacemouse) - ⭐ 1534 - C++
   A DIY navigation device for Fusion360
-- [mcp-installer](https://github.com/anaisbetts/mcp-installer) - ⭐ 1456 - JavaScript
+- [mcp-installer](https://github.com/anaisbetts/mcp-installer) - ⭐ 1457 - JavaScript
   An MCP server that installs other MCP servers for you
 - [ADAS](https://github.com/ShengranHu/ADAS) - ⭐ 1444 - Python
   [ICLR 2025] Automated Design of Agentic Systems
@@ -1537,9 +1537,9 @@ Total repositories: 344 | Total stars: 1499216
   Unofficial packages for Ring Doorbells, Cameras, Alarm System, and Smart Lighting
 - [grade-school-math](https://github.com/openai/grade-school-math) - ⭐ 1358 - Python
   
-- [xgrammar](https://github.com/mlc-ai/xgrammar) - ⭐ 1352 - C++
+- [xgrammar](https://github.com/mlc-ai/xgrammar) - ⭐ 1356 - C++
   Fast, Flexible and Portable Structured Generation
-- [Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - ⭐ 1291 - Python
+- [Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim) - ⭐ 1294 - Python
   Create Epic Math and Physics Animations & Study Notes From Text and Images.
 - [claude-prompt-generator](https://github.com/aws-samples/claude-prompt-generator) - ⭐ 1286 - Python
   
@@ -1547,21 +1547,21 @@ Total repositories: 344 | Total stars: 1499216
   A Self-adaptation Framework🐙 that adapts LLMs for unseen tasks in real-time!
 - [intellagent](https://github.com/plurai-ai/intellagent) - ⭐ 1142 - Python
   A framework for comprehensive diagnosis and optimization of agents using simulated, realistic synthetic interactions
-- [PySkyWiFi](https://github.com/robert/PySkyWiFi) - ⭐ 1133 - Python
+- [PySkyWiFi](https://github.com/robert/PySkyWiFi) - ⭐ 1134 - Python
   Completely free, unbelievably stupid wi-fi on long-haul flights
 - [LLaMA-Mesh](https://github.com/nv-tlabs/LLaMA-Mesh) - ⭐ 1120 - Python
   Unifying 3D Mesh Generation with Language Models
-- [concordia](https://github.com/google-deepmind/concordia) - ⭐ 1066 - Python
+- [concordia](https://github.com/google-deepmind/concordia) - ⭐ 1067 - Python
   A library for generative social simulation
 - [LibreCuda](https://github.com/mikex86/LibreCuda) - ⭐ 1065 - C
   
-- [OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - ⭐ 1058 - Python
+- [OpenTSLM](https://github.com/StanfordBDHG/OpenTSLM) - ⭐ 1057 - Python
   OpenTSLM: Time-Series Language Models for Reasoning over Multivariate Medical Text- and Time-Series Data
 - [DyT](https://github.com/jiachenzhu/DyT) - ⭐ 1020 - Python
   Code release for DynamicTanh (DyT)
 - [prometheus-eval](https://github.com/prometheus-eval/prometheus-eval) - ⭐ 1009 - Python
   Evaluate your LLM's response with Prometheus and GPT4 💯
-- [funsearch](https://github.com/google-deepmind/funsearch) - ⭐ 948 - Jupyter Notebook
+- [funsearch](https://github.com/google-deepmind/funsearch) - ⭐ 949 - Jupyter Notebook
   
 - [llmops-python-package](https://github.com/callmesora/llmops-python-package) - ⭐ 884 - Python
   Kickstart your LLMOps initiative with a flexible, robust, and productive Python package.
@@ -1575,11 +1575,11 @@ Total repositories: 344 | Total stars: 1499216
   Open-source code for paper "Dataset Distillation"
 - [bonito](https://github.com/BatsResearch/bonito) - ⭐ 801 - Python
   A lightweight library for generating synthetic instruction tuning datasets for your data without GPT.
-- [oh-my-cv](https://github.com/Renovamen/oh-my-cv) - ⭐ 748 - TypeScript
+- [oh-my-cv](https://github.com/Renovamen/oh-my-cv) - ⭐ 749 - TypeScript
   An in-browser, local-first Markdown resume builder.
 - [quiet-star](https://github.com/ezelikman/quiet-star) - ⭐ 741 - Python
   Code for Quiet-STaR
-- [fuzzie-production](https://github.com/webprodigies/fuzzie-production) - ⭐ 727 - TypeScript
+- [fuzzie-production](https://github.com/webprodigies/fuzzie-production) - ⭐ 728 - TypeScript
   
 - [cwm](https://github.com/facebookresearch/cwm) - ⭐ 704 - Python
   Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation.
@@ -1593,7 +1593,7 @@ Total repositories: 344 | Total stars: 1499216
   VPTQ, A Flexible and Extreme low-bit quantization algorithm
 - [chatgpt-conversation](https://github.com/platelminto/chatgpt-conversation) - ⭐ 661 - Python
   Have a conversation with ChatGPT using your voice, and have it talk back.
-- [cascade](https://github.com/d-ivashchuk/cascade) - ⭐ 654 - TypeScript
+- [cascade](https://github.com/d-ivashchuk/cascade) - ⭐ 655 - TypeScript
   Best open-source SaaS boilerplate. Free, powerful & extendable.
 - [ITensors.jl](https://github.com/ITensor/ITensors.jl) - ⭐ 630 - Julia
   A Julia library for efficient tensor computations and tensor network calculations. ITensors.jl is supported by the Simons Foundation's Flatiron Institute.
@@ -1603,7 +1603,7 @@ Total repositories: 344 | Total stars: 1499216
   A python library for quantum information and many-body calculations including tensor networks.
 - [pymdp](https://github.com/infer-actively/pymdp) - ⭐ 572 - Python
   A Python implementation of active inference for Markov Decision Processes
-- [SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - ⭐ 564 - Python
+- [SciAgentsDiscovery](https://github.com/lamm-mit/SciAgentsDiscovery) - ⭐ 565 - Python
   
 - [Long-Context-Data-Engineering](https://github.com/FranxYao/Long-Context-Data-Engineering) - ⭐ 477 - Python
   Implementation of paper Data Engineering for Scaling Language Models to 128K Context
@@ -1615,11 +1615,11 @@ Total repositories: 344 | Total stars: 1499216
   the pangenome graph builder
 - [MathematicalEngineeringDeepLearning](https://github.com/yoninazarathy/MathematicalEngineeringDeepLearning) - ⭐ 461 - HTML
   Material for The Mathematical Engineering of Deep Learning. See https://deeplearningmath.org
+- [helm-charts](https://github.com/temporalio/helm-charts) - ⭐ 459 - Mustache
+  Temporal Helm charts
 - [taskgen](https://github.com/simbianai/taskgen) - ⭐ 459 - Jupyter Notebook
   Task-based Agentic Framework using StrictJSON as the core
-- [helm-charts](https://github.com/temporalio/helm-charts) - ⭐ 458 - Mustache
-  Temporal Helm charts
-- [AutoKG](https://github.com/zjunlp/AutoKG) - ⭐ 458 - Python
+- [AutoKG](https://github.com/zjunlp/AutoKG) - ⭐ 459 - Python
   [WWWJ 2024] LLMs for Knowledge Graph Construction and Reasoning: Recent Capabilities and Future Opportunities
 - [create_llama_projects](https://github.com/run-llama/create_llama_projects) - ⭐ 456 - HTML
   
@@ -1631,9 +1631,9 @@ Total repositories: 344 | Total stars: 1499216
   High performance hybrid classical-quantum computing learning framework written in C
 - [xmc.dspy](https://github.com/KarelDO/xmc.dspy) - ⭐ 442 - Python
   In-Context Learning for eXtreme Multi-Label Classification (XMC) using only a handful of examples.
-- [asal](https://github.com/SakanaAI/asal) - ⭐ 437 - Jupyter Notebook
+- [asal](https://github.com/SakanaAI/asal) - ⭐ 438 - Jupyter Notebook
   Automating the Search for Artificial Life with Foundation Models!
-- [AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder) - ⭐ 437 - Python
+- [AgileCoder](https://github.com/FSoft-AI4Code/AgileCoder) - ⭐ 438 - Python
   [FORGE 2025] Incorporating Agile methodology into agents to create complex real-world softwares
 - [cuQuantum](https://github.com/NVIDIA/cuQuantum) - ⭐ 434 - Jupyter Notebook
   Home for cuQuantum Python & NVIDIA cuQuantum SDK C++ samples
@@ -1647,7 +1647,7 @@ Total repositories: 344 | Total stars: 1499216
   Continuum Learning with GEM:  Gradient Episodic Memory
 - [form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - ⭐ 395 - CSS
   A prototype of a tool that generates web forms from document forms
-- [TimeXer](https://github.com/thuml/TimeXer) - ⭐ 391 - Python
+- [TimeXer](https://github.com/thuml/TimeXer) - ⭐ 392 - Python
   Official implementation for "TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables" (NeurIPS 2024)
 - [Star-Attention](https://github.com/NVIDIA/Star-Attention) - ⭐ 390 - Python
   Efficient LLM Inference over Long Sequences
@@ -1655,7 +1655,7 @@ Total repositories: 344 | Total stars: 1499216
   Splunk Boss of the SOC version 3 dataset.
 - [cognitive-services-quickstart-code](https://github.com/Azure-Samples/cognitive-services-quickstart-code) - ⭐ 387 - Jupyter Notebook
   Code Examples used by the Quickstarts in the Cognitive Services Documentation
-- [financial-datasets](https://github.com/virattt/financial-datasets) - ⭐ 380 - Python
+- [financial-datasets](https://github.com/virattt/financial-datasets) - ⭐ 381 - Python
   Financial datasets for LLMs 🧪
 - [awesome-deep-phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena) - ⭐ 378
   A curated list of papers of interesting empirical study and insight on deep learning. Continually updating...
@@ -1667,10 +1667,10 @@ Total repositories: 344 | Total stars: 1499216
   Simple UI for debugging correlations of text embeddings
 - [ui](https://github.com/temporalio/ui) - ⭐ 296 - Svelte
   Temporal UI
+- [freephdlabor](https://github.com/ltjed/freephdlabor) - ⭐ 289 - Python
+  freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem
 - [WebcamGPT-Vision](https://github.com/bdekraker/WebcamGPT-Vision) - ⭐ 287 - JavaScript
   Lightweight GPT-4 Vision processing over the Webcam
-- [freephdlabor](https://github.com/ltjed/freephdlabor) - ⭐ 286 - Python
-  freephdlabor: customizing personalized multiagent systems that researchs 24/7 on your own scientific problem
 - [stablecog](https://github.com/stablecog/stablecog) - ⭐ 283 - Svelte
   
 - [SVD-LLM](https://github.com/AIoT-MLSys-Lab/SVD-LLM) - ⭐ 259 - Python
@@ -1683,7 +1683,7 @@ Total repositories: 344 | Total stars: 1499216
   💬 minimalistic ChatBot Interface in pure python
 - [FuzzTypes](https://github.com/genomoncology/FuzzTypes) - ⭐ 221 - Python
   Pydantic extension for annotating autocorrecting fields.
-- [DCFormer](https://github.com/Caiyun-AI/DCFormer) - ⭐ 219 - Python
+- [DCFormer](https://github.com/Caiyun-AI/DCFormer) - ⭐ 220 - Python
   
 - [ChatRex](https://github.com/IDEA-Research/ChatRex) - ⭐ 206 - Python
   Code for ChatRex: Taming Multimodal LLM for Joint Perception and Understanding
